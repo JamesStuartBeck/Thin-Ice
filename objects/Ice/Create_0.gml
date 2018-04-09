@@ -11,5 +11,8 @@ cracked=0
 // True means that it has been stepped on once
 
 change=true
+
+xpos=Player.x
+ypos=Player.y
 // Whether the state of the ice should change or not
 // Used to prevent a single collision from registerring multiple times
