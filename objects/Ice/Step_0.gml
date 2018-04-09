@@ -6,6 +6,7 @@ if(place_meeting(x,y,Player) && change){
 		sturdy=false
 		cracked=true
 		change=false
+		global.steps += 1
 		score+=100
 // If sturdy, make it cracked, and don't check for another collison until you step on it again
 	}
