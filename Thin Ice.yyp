@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1373cd20-3015-44bd-b615-04a3990d5d81",
+            "Value": {
+                "id": "bb2f8e36-ed0d-450a-852c-b4ecff27e793",
+                "resourcePath": "sprites\\thickIceSprite\\thickIceSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "13ed5111-2cb1-4578-abfb-2dababf0a47a",
             "Value": {
                 "id": "de060954-8e5a-4076-9fc1-7ab4f5360868",
@@ -103,6 +111,22 @@
             }
         },
         {
+            "Key": "1f401b9f-2c9c-4be5-ad08-dcb7c99e9fc0",
+            "Value": {
+                "id": "25cbfed5-17a9-4d90-8b09-5d1c5ede6936",
+                "resourcePath": "objects\\SwitchWall\\SwitchWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4",
+            "Value": {
+                "id": "3cd51dad-9e33-4b97-85d6-1b25ab33627a",
+                "resourcePath": "objects\\ThickIce\\ThickIce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2bdc83e6-c976-41bf-ace0-ace35cebbaea",
             "Value": {
                 "id": "e29ac928-d0f5-4dab-a7f9-fdeaa2b54bc0",
@@ -143,6 +167,14 @@
             }
         },
         {
+            "Key": "6f69e1f6-6366-4807-8bc5-c6d0d0a10d9e",
+            "Value": {
+                "id": "e7817980-2638-4298-abe3-3eeb198f3603",
+                "resourcePath": "rooms\\Level2\\Level2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7074446e-c333-451b-a411-ee94f3289c63",
             "Value": {
                 "id": "e5728339-d9d3-4f6d-8ca7-433dbc21a7a3",
@@ -171,6 +203,14 @@
             "Value": {
                 "id": "f865398f-187a-4ce5-9d7f-4638c3e7fe48",
                 "resourcePath": "objects\\Stone\\Stone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ab46d10-3075-47e9-a186-d177ae9daf32",
+            "Value": {
+                "id": "4dcecea5-f30b-4ccb-853f-730a83b02f1a",
+                "resourcePath": "objects\\Switch\\Switch.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -255,6 +295,14 @@
             }
         },
         {
+            "Key": "c4c487dc-5a15-4518-a2fe-46d52dc95e61",
+            "Value": {
+                "id": "7f4dba94-1c21-4fc1-9c73-9ed3cf4e5cbd",
+                "resourcePath": "sprites\\switchSprite\\switchSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c4d9b74e-0fe4-4e1d-8cc1-6d2687ebee7c",
             "Value": {
                 "id": "7c903ff0-d348-4e0f-bf1b-8f4868e45168",
@@ -292,14 +340,6 @@
                 "id": "500f5dbb-f406-4842-8eb0-675b0e664023",
                 "resourcePath": "objects\\EndManager\\EndManager.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "e56ef391-d621-49ac-a3b7-685578061969",
-            "Value": {
-                "id": "19d3b4a7-f0c6-43ef-9e60-ed718e4f13be",
-                "resourcePath": "rooms\\Level2\\Level2.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

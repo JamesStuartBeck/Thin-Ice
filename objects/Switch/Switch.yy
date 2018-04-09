@@ -1,38 +1,38 @@
 {
-    "id": "3ed14b1f-f266-4cee-a54a-d20157176049",
+    "id": "8ab46d10-3075-47e9-a186-d177ae9daf32",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "IceWall",
+    "name": "Switch",
     "eventList": [
         {
-            "id": "c285f641-fdb8-4ece-8b86-42fbadd786ac",
+            "id": "5fe4fd8d-06cf-4b20-91f6-434df36dfaec",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "3ed14b1f-f266-4cee-a54a-d20157176049"
+            "m_owner": "8ab46d10-3075-47e9-a186-d177ae9daf32"
         },
         {
-            "id": "01506a60-6b99-434c-ba40-1a6c0dc2d49e",
+            "id": "279a14f9-cd11-4282-a6e8-7c2ca4bee80a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "3ed14b1f-f266-4cee-a54a-d20157176049"
+            "m_owner": "8ab46d10-3075-47e9-a186-d177ae9daf32"
         },
         {
-            "id": "cd5268f1-01f8-490c-98b9-8ea6a6352e64",
+            "id": "032317d1-6ddd-4b01-8e53-01e43c54bfb8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "3ed14b1f-f266-4cee-a54a-d20157176049"
+            "m_owner": "8ab46d10-3075-47e9-a186-d177ae9daf32"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "bd4ff445-7e0b-4f1c-bf52-b1582fc13268",
+    "spriteId": "c4c487dc-5a15-4518-a2fe-46d52dc95e61",
     "visible": true
 }
