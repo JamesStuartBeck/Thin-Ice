@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "444c2302-dc22-4988-9d1d-f18b1f110112",
+            "Value": {
+                "id": "6a44c987-31cd-4b6d-be3f-6be1b975ac7d",
+                "resourcePath": "sprites\\Thin3Ice\\Thin3Ice.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "51c30cae-c7ba-444a-bf6b-93b94d72ba64",
             "Value": {
                 "id": "f195b603-4658-4460-a29c-36f8dc8e543a",
@@ -148,6 +156,14 @@
                 "id": "e3e98edd-0712-4468-8f17-bf7f4229728c",
                 "resourcePath": "views\\53e2ec15-c020-4f01-8030-8b56f8d1e2c7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "66b9fee4-e230-4326-a51f-168031f002da",
+            "Value": {
+                "id": "9d0a2016-63e3-4e9c-b00d-75c1e03bf57d",
+                "resourcePath": "sprites\\Thin2Ice\\Thin2Ice.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

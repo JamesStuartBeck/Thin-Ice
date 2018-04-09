@@ -5,7 +5,7 @@ sturdy=true
 // True means it has never been stepped on
 // False means that it has been stepped on once
 
-cracked=false
+cracked=0
 // Whether the ice has been stepped on for a second time
 // False means it has never been stepped on
 // True means that it has been stepped on once
