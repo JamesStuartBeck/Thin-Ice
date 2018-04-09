@@ -4,15 +4,15 @@ if(keyboard_check_pressed(vk_up)){if(!place_meeting(x,y-64,IceWall) && !place_me
 	y-=64
 	image_angle=0
 	}}
-else if(keyboard_check_pressed(vk_down)){if(!place_meeting(x,y+64,IceWall) && !place_meeting(x,y-64,closedExit)){
+else if(keyboard_check_pressed(vk_down)){if(!place_meeting(x,y+64,IceWall) && !place_meeting(x,y+64,closedExit)){
 	y+=64
 	image_angle=180
 	}}
-else if(keyboard_check_pressed(vk_left)){if(!place_meeting(x-64,y,IceWall) && !place_meeting(x,y-64,closedExit)){
+else if(keyboard_check_pressed(vk_left)){if(!place_meeting(x-64,y,IceWall) && !place_meeting(x-64,y,closedExit)){
 	x-=64
 	image_angle=90
 	}}
-else if(keyboard_check_pressed(vk_right)){if(!place_meeting(x+64,y,IceWall) && !place_meeting(x,y-64,closedExit)){
+else if(keyboard_check_pressed(vk_right)){if(!place_meeting(x+64,y,IceWall) && !place_meeting(x+64,y,closedExit)){
 	x+=64
 	image_angle=270
 	}}
