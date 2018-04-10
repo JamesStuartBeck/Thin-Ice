@@ -1,0 +1,21 @@
+- visuals for number of cracks on tiles
+	3 cracks left -> darker blue
+	2 cracks left -> darker bleu with cracks on it
+	1 crack left -> light bleu
+	0 cracks left -> light bleu with cracks on it
+
+
+Core mechanic -> 1 crack for each tile
+-> Introduce multiple cracking (2 and 3)
+-> Introduce crack a number of tiles before moving on (even with multiple cracking it's on e per tile not per crack)
+-> Introduce lever (bring down small obstacles)
+-> Introduce key that opens new section in the map
+(lever can be used, for example, in a section to make it more difficult to get the key)
+later:
+-> Introduce crack area around you
+-> Introduce timer on cracks when standing on a tile
+-> Introduce tiles cracking automatically after some time (gradually from start to finish)
+
+To Do:
+- visuals for number of tiles to cracks before door unlocks
+- create puzzles
