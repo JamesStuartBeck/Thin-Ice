@@ -286,6 +286,25 @@
             }
         },
         {
+            "Key": "40fd6a5b-80cb-4bb4-b4eb-15d933374b64",
+            "Value": {
+                "id": "1824c6ad-0ccb-49a3-b91e-8f5660da7174",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/enter_exit\/enter_exit.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "430ad2fc-03ee-4983-996d-3b75ff800554",
             "Value": {
                 "id": "fbc0bab2-8224-4dea-8639-2c41e9a6af87",
@@ -819,7 +838,7 @@
         }
     ],
     "script_order": [
-        
+        "40fd6a5b-80cb-4bb4-b4eb-15d933374b64"
     ],
     "tutorial": ""
 }
