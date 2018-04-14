@@ -8,3 +8,5 @@ move[UP] = true; // up
 move[DOWN] = true; // down
 move[LEFT] = true; // left
 move[RIGHT] = true; // right
+
+directionn = init_direction;

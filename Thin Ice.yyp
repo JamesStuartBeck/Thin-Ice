@@ -457,25 +457,6 @@
             }
         },
         {
-            "Key": "7dcb31e4-4df5-46e4-83b8-8883e1d5e376",
-            "Value": {
-                "id": "122a0e94-e217-449d-acf9-14925e9dc590",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/Level5\/Level5.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "846338c8-76d8-48f9-bde6-f8cba5d0ad7a",
             "Value": {
                 "id": "f865398f-187a-4ce5-9d7f-4638c3e7fe48",

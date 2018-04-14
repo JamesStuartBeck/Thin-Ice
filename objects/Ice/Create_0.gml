@@ -8,6 +8,8 @@ if (strength == 3) {
 	sprite_index=crackedThickIceSprite
 } else if (strength == 1) {
 	sprite_index=solidIceSprite
+} else if (strength = 0){
+	sprite_index=thinIceSprite
 }
 
 change=true
