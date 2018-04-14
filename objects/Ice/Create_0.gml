@@ -1,14 +1,14 @@
 // Variables created at the beginning of the game about the ice
 
-sturdy=true
-// Whether the ice has been stepped on at all
-// True means it has never been stepped on
-// False means that it has been stepped on once
+strength = init_strength;
 
-cracked=false
-// Whether the ice has been stepped on for a second time
-// False means it has never been stepped on
-// True means that it has been stepped on once
+if (strength == 3) {
+	sprite_index=thickIceSprite
+} else if (strength == 2) {
+	sprite_index=crackedThickIceSprite
+} else if (strength == 1) {
+	sprite_index=solidIceSprite
+}
 
 change=true
 // Whether the state of the ice should change or not

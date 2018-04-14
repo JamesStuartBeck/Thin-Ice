@@ -267,6 +267,25 @@
             }
         },
         {
+            "Key": "3d21c362-9604-4b22-9b3e-3061aa26c8ab",
+            "Value": {
+                "id": "2d476163-3625-49fa-beba-943b34246ecf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/crackedThickIce\/crackedThickIce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ed14b1f-f266-4cee-a54a-d20157176049",
             "Value": {
                 "id": "1ebfc078-dad4-4b45-9616-52a3700aa4a4",
@@ -324,6 +343,25 @@
             }
         },
         {
+            "Key": "4a6d44f7-c011-4a96-ab3d-3b028be47253",
+            "Value": {
+                "id": "0618633c-795b-475b-94c4-e1014d1f2aed",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/thickIceSprite\/thickIceSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "51c30cae-c7ba-444a-bf6b-93b94d72ba64",
             "Value": {
                 "id": "f195b603-4658-4460-a29c-36f8dc8e543a",
@@ -377,6 +415,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/stoneSprite\/stoneSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7c736262-1c3a-46a9-a73c-ceed61b5691e",
+            "Value": {
+                "id": "9af781a8-b0d6-4990-bf08-8e9f3d22240e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/crackedThickIceSprite\/crackedThickIceSprite.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -2,14 +2,7 @@
 
 if(place_meeting(x,y,Player) && change){
 // If colliding with the floor, and this is the first collision
-	if(strength==3){
-		strength--
-		change=false
-		score+=100
-		sprite_index=crackedThickIceSprite
-// If sturdy, make it cracked, and don't check for another collison until you step on it again
-	}
-	else if(strength==2){
+	if(strength==2){
 		strength--
 		change=false
 		score+=100
