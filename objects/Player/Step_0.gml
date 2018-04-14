@@ -22,13 +22,7 @@ else if(move[RIGHT] && keyboard_check_pressed(vk_right)){if(!place_meeting(x+64,
 player_x = x;
 player_y = y;
 
-if (room == Level3) {
-	enter_exit(move, UP, player_x, player_y);
-} else if (room == Level1 || room == Level2 || room == Level4) {
-	enter_exit(move, RIGHT, player_x, player_y);
-} else if (room == Level5) {
-	enter_exit(move, LEFT, player_x, player_y);
-}
+enter_exit(move, directionn, player_x, player_y);
 
 if(place_meeting(x,y,Exit)) {
 	room_goto_next()

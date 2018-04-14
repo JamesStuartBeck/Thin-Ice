@@ -6,12 +6,12 @@ LEFT = 2;
 RIGHT = 3;
 
 move = argument[0];
-direction = argument[1];
+directionn = argument[1];
 player_x = argument[2];
 player_y = argument[3];
 
-switch (direction) {
-	case UP:
+switch (directionn) {
+	case "UP":
 		if (player_x == Exit.x+64 && player_y == Exit.y) {
 			move[LEFT] = false;
 			move[UP] = true;
@@ -32,7 +32,7 @@ switch (direction) {
 		
 		break;
 		
-	case DOWN:
+	case "DOWN":
 		if (player_x == Exit.x+64 && player_y == Exit.y) {
 			move[LEFT] = false;
 			move[DOWN] = true;
@@ -53,7 +53,7 @@ switch (direction) {
 		
 		break;
 		
-	case LEFT:
+	case "LEFT":
 		if (player_x == Exit.x+64 && player_y == Exit.y) {
 			move[LEFT] = false;
 			move[UP] = true;
@@ -74,7 +74,7 @@ switch (direction) {
 		
 		break;
 		
-	case RIGHT: 
+	case "RIGHT": 
 		if (player_x == Exit.x-64 && player_y == Exit.y) {
 			move[RIGHT] = false;
 			move[UP] = true;

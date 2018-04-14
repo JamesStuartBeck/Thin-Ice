@@ -11,7 +11,7 @@ if(place_meeting(x,y,Player) && change){
 // If sturdy, make it cracked, and don't check for another collison until you step on it again
 	}
 	else if(cracked){
-		room_goto(EndScreen)
+		room_goto(room)
 // If cracked, game over
 	}
 }
