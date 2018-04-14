@@ -1,13 +1,12 @@
 // Handles player input
 
-player_x = x;
-player_y = y;
 
-if(move[DOWN] && keyboard_check_pressed(vk_up)){if(!place_meeting(x,y-64,IceWall) && !place_meeting(x,y-64,closedExit)){
+
+if(move[UP] && keyboard_check_pressed(vk_up)){if(!place_meeting(x,y-64,IceWall) && !place_meeting(x,y-64,closedExit)){
 	y-=64
 	image_angle=0
 	}}
-else if(move[UP] && keyboard_check_pressed(vk_down)){if(!place_meeting(x,y+64,IceWall) && !place_meeting(x,y+64,closedExit)){
+else if(move[DOWN] && keyboard_check_pressed(vk_down)){if(!place_meeting(x,y+64,IceWall) && !place_meeting(x,y+64,closedExit)){
 	y+=64
 	image_angle=180
 	}}
@@ -20,22 +19,17 @@ else if(move[RIGHT] && keyboard_check_pressed(vk_right)){if(!place_meeting(x+64,
 	image_angle=270
 	}}
 // Moves the player
+player_x = x;
+player_y = y;
 
-if (room == Level2) {
-	if(place_meeting(x,y,Exit)) {
-		room_goto_next()
-	} else if (player_x == Exit.x-64 && player_y == Exit.y) {
-		move[RIGHT] = false;
-	} else {
-		move[RIGHT] = true;
-	}
-} else if (room == Level1 || room == Level3) {
-	if(place_meeting(x,y,Exit)) {
-		room_goto_next();
-	} else {
-		//script_execute(enter_exit,moveUp, moveDown, moveLeft, moveRight, "Right");
-		enter_exit(move, RIGHT, player_x, player_y);
-	}
-} else if(place_meeting(x,y,Exit)) {
+if (room == Level3) {
+	enter_exit(move, UP, player_x, player_y);
+} else if (room == Level1 || room == Level2 || room == Level4) {
+	enter_exit(move, RIGHT, player_x, player_y);
+} else if (room == Level5) {
+	enter_exit(move, LEFT, player_x, player_y);
+}
+
+if(place_meeting(x,y,Exit)) {
 	room_goto_next()
 }

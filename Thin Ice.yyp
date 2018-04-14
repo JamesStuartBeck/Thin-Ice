@@ -167,7 +167,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/Level3\/Level3.yy",
+                "resourcePath": "rooms\/Level4\/Level4.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -319,7 +319,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/Level2\/Level2.yy",
+                "resourcePath": "rooms\/Level3\/Level3.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -414,7 +414,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/EndScreen\/EndScreen.yy",
+                "resourcePath": "rooms\/Level5\/Level5.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -604,7 +604,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/Level4\/Level4.yy",
+                "resourcePath": "rooms\/Level2\/Level2.yy",
                 "resourceType": "GMRoom"
             }
         },

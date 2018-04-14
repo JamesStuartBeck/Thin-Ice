@@ -15,32 +15,54 @@ switch (direction) {
 		if (player_x == Exit.x+64 && player_y == Exit.y) {
 			move[LEFT] = false;
 			move[UP] = true;
-			move[DOWN] = true;
-		} else if (player_x == Exit.x && player_y == Exit.y-64) {
+			move[RIGHT] = true;
+		} else if (player_x == Exit.x-64 && player_y == Exit.y) {
+			move[RIGHT] = false;
+			move[UP] = true;
+			move[LEFT] = true;
+		} else if (player_x == Exit.x && player_y == Exit.y+64) {
 			move[UP] = false;
 			move[LEFT] = true;
-			move[DOWN] = true;
-		} else if (player_x == Exit.x && player_y == Exit.y+64) {
-			move[DOWN] = false;
-			move[UP] = true;
-			move[LEFT] = true;
+			move[RIGHT] = true;
 		} else {
 			move[UP] = true;
-			move[DOWN] = true;
+			move[RIGHT] = true;
 			move[LEFT] = true;
 		}
 		
 		break;
+		
+	case DOWN:
+		if (player_x == Exit.x+64 && player_y == Exit.y) {
+			move[LEFT] = false;
+			move[DOWN] = true;
+			move[RIGHT] = true;
+		} else if (player_x == Exit.x-64 && player_y == Exit.y) {
+			move[RIGHT] = false;
+			move[DOWN] = true;
+			move[LEFT] = true;
+		} else if (player_x == Exit.x && player_y == Exit.y-64) {
+			move[DOWN] = false;
+			move[LEFT] = true;
+			move[RIGHT] = true;
+		} else {
+			move[DOWN] = true;
+			move[RIGHT] = true;
+			move[LEFT] = true;
+		}
+		
+		break;
+		
 	case LEFT:
 		if (player_x == Exit.x+64 && player_y == Exit.y) {
 			move[LEFT] = false;
 			move[UP] = true;
 			move[DOWN] = true;
-		} else if (player_x == Exit.x && player_y == Exit.y-64) {
+		} else if (player_x == Exit.x && player_y == Exit.y+64) {
 			move[UP] = false;
 			move[LEFT] = true;
 			move[DOWN] = true;
-		} else if (player_x == Exit.x && player_y == Exit.y+64) {
+		} else if (player_x == Exit.x && player_y == Exit.y-64) {
 			move[DOWN] = false;
 			move[UP] = true;
 			move[LEFT] = true;
@@ -57,11 +79,11 @@ switch (direction) {
 			move[RIGHT] = false;
 			move[UP] = true;
 			move[DOWN] = true;
-		} else if (player_x == Exit.x && player_y == Exit.y-64) {
+		} else if (player_x == Exit.x && player_y == Exit.y+64) {
 			move[UP] = false;
 			move[RIGHT] = true;
 			move[DOWN] = true;
-		} else if (player_x == Exit.x && player_y == Exit.y+64) {
+		} else if (player_x == Exit.x && player_y == Exit.y-64) {
 			move[DOWN] = false;
 			move[UP] = true;
 			move[RIGHT] = true;
