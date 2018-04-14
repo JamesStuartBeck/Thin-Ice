@@ -22,7 +22,7 @@ if(place_meeting(x,y,Player) && change){
 		sprite_index=thinIceSprite
 	}
 	else if(strength==0){
-		room_goto(EndScreen)
+		room_goto(room)
 // If cracked, game over
 	}
 }
