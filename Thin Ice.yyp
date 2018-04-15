@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "1373cd20-3015-44bd-b615-04a3990d5d81",
-            "Value": {
-                "id": "bb2f8e36-ed0d-450a-852c-b4ecff27e793",
-                "resourcePath": "sprites\\thickIceSprite\\thickIceSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "13ed5111-2cb1-4578-abfb-2dababf0a47a",
             "Value": {
                 "id": "de060954-8e5a-4076-9fc1-7ab4f5360868",
@@ -103,14 +95,6 @@
             }
         },
         {
-            "Key": "1f3f19e9-9668-4ae4-ba0a-3093374faf14",
-            "Value": {
-                "id": "088d2dd4-cde0-4a40-86f3-d2e7735d13b9",
-                "resourcePath": "sprites\\playerSprite\\playerSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1f401b9f-2c9c-4be5-ad08-dcb7c99e9fc0",
             "Value": {
                 "id": "25cbfed5-17a9-4d90-8b09-5d1c5ede6936",
@@ -143,6 +127,22 @@
             }
         },
         {
+            "Key": "3971a215-324f-4b8d-84a7-a240f3159a7e",
+            "Value": {
+                "id": "43a40fb4-14c4-4c96-a839-188ba268974e",
+                "resourcePath": "objects\\IceWallCorner\\IceWallCorner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3e05c7f4-8964-4a6b-b94e-71416524afc3",
+            "Value": {
+                "id": "c6d14e93-9d7e-4645-9995-007aed62c4de",
+                "resourcePath": "sprites\\secondHalfCrackedSprite\\secondHalfCrackedSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ed14b1f-f266-4cee-a54a-d20157176049",
             "Value": {
                 "id": "1ebfc078-dad4-4b45-9616-52a3700aa4a4",
@@ -167,11 +167,27 @@
             }
         },
         {
+            "Key": "59f0156a-82f4-451d-bc94-85d963c602c4",
+            "Value": {
+                "id": "c5b5ecbd-39c5-40af-995b-456ac72a2b88",
+                "resourcePath": "sprites\\crackedIceSprite\\crackedIceSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6f69e1f6-6366-4807-8bc5-c6d0d0a10d9e",
             "Value": {
                 "id": "e7817980-2638-4298-abe3-3eeb198f3603",
                 "resourcePath": "rooms\\Level2\\Level2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7029ac23-1cc0-4bed-bd18-d7c38618b76f",
+            "Value": {
+                "id": "f959ffe7-45f1-4838-995f-35d50043e860",
+                "resourcePath": "sprites\\firstHalfCrackedSprite\\firstHalfCrackedSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -239,6 +255,14 @@
             }
         },
         {
+            "Key": "9e05b912-8393-42dc-bff1-c155b9110804",
+            "Value": {
+                "id": "fa471879-66fe-4cef-9d7d-8237a255fff8",
+                "resourcePath": "sprites\\halfCrackedSprite\\halfCrackedSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a194f996-88e5-413b-a7a0-34d25f39f7f4",
             "Value": {
                 "id": "7a003103-ee9f-46c1-b11b-09db309a2779",
@@ -276,6 +300,14 @@
                 "id": "65bb8c5e-8f6e-403a-b3be-f45b4ba1aef4",
                 "resourcePath": "views\\aa5b1af2-5c91-46e3-881e-6399195d988b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "af731fc5-c5eb-4a33-a4ed-27b78387f565",
+            "Value": {
+                "id": "ae5bd8c5-3a01-4e89-af27-b3515965fbfe",
+                "resourcePath": "sprites\\iceWallCornerSprite\\iceWallCornerSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -343,6 +375,22 @@
             }
         },
         {
+            "Key": "ddb61bf4-999a-41eb-b17e-bcb598d43464",
+            "Value": {
+                "id": "711bc78f-2496-4bc7-b11c-04eedd8edf0e",
+                "resourcePath": "objects\\IceWallOutsideCorner\\IceWallOutsideCorner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eb81aca4-8b3a-48ce-bc0a-c41ebd7a4b82",
+            "Value": {
+                "id": "590fcc90-ca2d-41e6-b7ca-d90d398e0db4",
+                "resourcePath": "sprites\\iceWallOutsideCornerSprite\\iceWallOutsideCornerSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ef44e277-2656-45c5-bd8e-e925106526a8",
             "Value": {
                 "id": "1f3cd8b2-00a7-4848-90ec-c5e7a19db4d5",
@@ -363,6 +411,14 @@
             "Value": {
                 "id": "43247580-943c-4221-aee0-5345066a1698",
                 "resourcePath": "sprites\\playerSpriteUp\\playerSpriteUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fddbcb8b-0d6e-4ced-989b-3633eb353839",
+            "Value": {
+                "id": "93a6b6c7-4764-4a26-b531-98b6c9ae35b0",
+                "resourcePath": "sprites\\icebergSprite\\icebergSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
