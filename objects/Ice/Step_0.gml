@@ -2,14 +2,14 @@
 
 if(place_meeting(x,y,Player) && change){
 // If colliding with the floor, and this is the first collision
-	if(sturdy){
-		sturdy=false
-		cracked=true
+	if(strength==1){
+		strength--
 		change=false
 		score+=100
+		sprite_index=thinIceSprite
 // If sturdy, make it cracked, and don't check for another collison until you step on it again
 	}
-	else if(cracked){
+	else if(strength==0){
 		room_goto(EndScreen)
 // If cracked, game over
 	}
@@ -20,6 +20,6 @@ else if(!place_meeting(x,y,Player)){
 }
 // Player collisions
 
-if(sturdy){sprite_index=solidIceSprite}
-else if(cracked){sprite_index=thinIceSprite}
-// Changes sprites based on condition of ice
+if(sprite_index==thinIceSprite){
+	if(image_index>image_number-1){sprite_index=crackedIceSprite}
+}
