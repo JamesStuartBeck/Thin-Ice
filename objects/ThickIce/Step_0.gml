@@ -6,14 +6,14 @@ if(place_meeting(x,y,Player) && change){
 		strength--
 		change=false
 		score+=100
-		sprite_index=firstHalfCrackedSprite
+		sprite_index=firstHalfCrackedSpriteThicc
 // If sturdy, make it cracked, and don't check for another collison until you step on it again
 	}
 	else if(strength==1){
 		strength--
 		change=false
 		score+=100
-		sprite_index=secondHalfCrackedSprite
+		sprite_index=secondHalfCrackedSpriteThicc
 	}
 	else if(strength==0){
 		room_goto(EndScreen)
@@ -26,9 +26,9 @@ else if(!place_meeting(x,y,Player)){
 }
 // Player collisions
 
-if(sprite_index==firstHalfCrackedSprite){
-	if(image_index>image_number-1){sprite_index=halfCrackedSprite}
+if(sprite_index==firstHalfCrackedSpriteThicc){
+	if(image_index>image_number-1){sprite_index=halfCrackedSpriteThicc}
 }
-else if(sprite_index==secondHalfCrackedSprite){
-	if(image_index>image_number-1){sprite_index=crackedIceSprite}
+else if(sprite_index==secondHalfCrackedSpriteThicc){
+	if(image_index>image_number-1){sprite_index=crackedIceSpriteThicc}
 }
