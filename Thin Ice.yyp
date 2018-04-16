@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1e0b8a79-4be1-49c8-ac41-991af7181f37",
+            "Value": {
+                "id": "3f137d30-2040-4e35-bd71-06f16378bcec",
+                "resourcePath": "objects\\FakeIce\\FakeIce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f401b9f-2c9c-4be5-ad08-dcb7c99e9fc0",
             "Value": {
                 "id": "25cbfed5-17a9-4d90-8b09-5d1c5ede6936",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "5a7eec4d-553e-412c-8175-0da852f246b5",
+            "Value": {
+                "id": "419d23e6-3207-48fe-b9f4-c28c4b10493a",
+                "resourcePath": "rooms\\Level1_2\\Level1_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6f69e1f6-6366-4807-8bc5-c6d0d0a10d9e",
             "Value": {
                 "id": "e7817980-2638-4298-abe3-3eeb198f3603",
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "7d79304f-05b5-4be6-981f-c969c050f87c",
+            "Value": {
+                "id": "6945114b-37e4-4830-9b19-53d6fac9dc93",
+                "resourcePath": "rooms\\Level1_1\\Level1_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7dcb31e4-4df5-46e4-83b8-8883e1d5e376",
             "Value": {
                 "id": "122a0e94-e217-449d-acf9-14925e9dc590",
@@ -244,6 +268,14 @@
                 "id": "46a25e66-61de-457e-b959-77b1a06e97b1",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "846335fe-95cb-4b88-865e-51fe5931d9f5",
+            "Value": {
+                "id": "6119e239-1b40-4813-8b23-c4147c2089a7",
+                "resourcePath": "rooms\\Level1_4\\Level1_4.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -319,6 +351,14 @@
             }
         },
         {
+            "Key": "a86016a1-38f7-4440-8edb-38272bdfe656",
+            "Value": {
+                "id": "ae6298ed-ad52-4677-a926-f718eb392c00",
+                "resourcePath": "rooms\\Level1_3\\Level1_3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "ac6c39d6-7b14-43c0-9aae-5fc220308d2f",
@@ -340,6 +380,14 @@
                 "id": "ae5bd8c5-3a01-4e89-af27-b3515965fbfe",
                 "resourcePath": "sprites\\iceWallCornerSprite\\iceWallCornerSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b67bb3e3-4a78-4287-a0b5-43d60799da10",
+            "Value": {
+                "id": "bd598ec5-8589-4807-8453-17c7da40d820",
+                "resourcePath": "objects\\RockWall\\RockWall.yy",
+                "resourceType": "GMObject"
             }
         },
         {

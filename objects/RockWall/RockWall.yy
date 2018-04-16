@@ -1,28 +1,38 @@
 {
-    "id": "846338c8-76d8-48f9-bde6-f8cba5d0ad7a",
+    "id": "b67bb3e3-4a78-4287-a0b5-43d60799da10",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Stone",
+    "name": "RockWall",
     "eventList": [
         {
-            "id": "96425975-35e5-47b5-b4b5-e03c79278547",
+            "id": "00ad1ea7-4455-4b87-91c6-1f648b437278",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "846338c8-76d8-48f9-bde6-f8cba5d0ad7a"
+            "eventtype": 0,
+            "m_owner": "b67bb3e3-4a78-4287-a0b5-43d60799da10"
         },
         {
-            "id": "9b0c12ba-4c46-44eb-96cf-5256f1252870",
+            "id": "53e7d78e-6b92-434a-aa96-a2f241c23984",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "846338c8-76d8-48f9-bde6-f8cba5d0ad7a"
+            "m_owner": "b67bb3e3-4a78-4287-a0b5-43d60799da10"
+        },
+        {
+            "id": "624e927f-742f-451b-9d11-588790510e21",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "b67bb3e3-4a78-4287-a0b5-43d60799da10"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7074446e-c333-451b-a411-ee94f3289c63",
+    "spriteId": "fddbcb8b-0d6e-4ced-989b-3633eb353839",
     "visible": true
 }

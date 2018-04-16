@@ -1,28 +1,38 @@
 {
-    "id": "846338c8-76d8-48f9-bde6-f8cba5d0ad7a",
+    "id": "1e0b8a79-4be1-49c8-ac41-991af7181f37",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Stone",
+    "name": "FakeIce",
     "eventList": [
         {
-            "id": "96425975-35e5-47b5-b4b5-e03c79278547",
+            "id": "7b6a6541-ab62-4ae8-9005-0f2dca35dff8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "846338c8-76d8-48f9-bde6-f8cba5d0ad7a"
+            "eventtype": 0,
+            "m_owner": "1e0b8a79-4be1-49c8-ac41-991af7181f37"
         },
         {
-            "id": "9b0c12ba-4c46-44eb-96cf-5256f1252870",
+            "id": "2aa78bdc-7169-4973-b7a6-063306b9d838",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "846338c8-76d8-48f9-bde6-f8cba5d0ad7a"
+            "m_owner": "1e0b8a79-4be1-49c8-ac41-991af7181f37"
+        },
+        {
+            "id": "759ea20b-85e7-4d34-87c8-d1795855450e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "1e0b8a79-4be1-49c8-ac41-991af7181f37"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7074446e-c333-451b-a411-ee94f3289c63",
+    "spriteId": "51c30cae-c7ba-444a-bf6b-93b94d72ba64",
     "visible": true
 }
