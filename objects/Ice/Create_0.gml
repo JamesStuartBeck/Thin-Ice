@@ -8,3 +8,5 @@ strength=1
 // Used to determine how many times you can step on the ice
 // Every step takes away one strength
 // 0 strength means game over
+
+virgin = true;

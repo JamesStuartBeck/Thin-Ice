@@ -49,6 +49,6 @@ player_y = y;
 
 enter_exit(move, directionn, player_x, player_y);
 
-if(place_meeting(x,y,Exit)) {
+if(place_meeting(x,y,Exit) && global.steps>=global.tiles) {
 	room_goto_next()
 }

@@ -7,6 +7,7 @@ if(place_meeting(x,y,Player) && change){
 		change=false
 		score+=100
 		sprite_index=thinIceSprite
+		global.steps++;
 // If sturdy, make it cracked, and don't check for another collison until you step on it again
 	}
 	else if(strength==0){
