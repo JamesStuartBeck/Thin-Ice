@@ -628,6 +628,25 @@
             }
         },
         {
+            "Key": "a6bb6146-c90d-4b1a-b83f-60f290d9b6d7",
+            "Value": {
+                "id": "34ea0db2-dcd3-4dd5-90d5-099728f6f5a7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/object13\/object13.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a773b9d3-bba8-4d70-b403-9d1c29b2500d",
             "Value": {
                 "id": "1d4f0c87-e1fa-4ef2-aab3-55fbb70eb47c",
@@ -834,6 +853,44 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cedd961e-9a08-469b-8bb1-57ff3b754731",
+            "Value": {
+                "id": "82b5c92d-d4c9-445b-9cb2-95213ae7a15c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/closedExitSprite\/closedExitSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d37f2792-4cad-4b56-9b97-8b668ee6c8f1",
+            "Value": {
+                "id": "284abb24-0520-4f18-ab3b-bc7aea71fdf0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/closedExit\/closedExit.yy",
+                "resourceType": "GMObject"
             }
         },
         {
