@@ -24,8 +24,14 @@ switch (directionn) {
 			move[UP] = false;
 			move[LEFT] = true;
 			move[RIGHT] = true;
+		} else if (player_x == Exit.x && player_y == Exit.y-64 && global.steps < global.tiles) {
+			move[DOWN] = false;
+			move[UP] = true;
+			move[RIGHT] = true;
+			move[LEFT] = true;
 		} else {
 			move[UP] = true;
+			move[DOWN] = true;
 			move[RIGHT] = true;
 			move[LEFT] = true;
 		}
@@ -45,7 +51,13 @@ switch (directionn) {
 			move[DOWN] = false;
 			move[LEFT] = true;
 			move[RIGHT] = true;
+		} else if (player_x == Exit.x && player_y == Exit.y+64 && global.steps < global.tiles) {
+			move[UP] = false;
+			move[DOWN] = true;
+			move[RIGHT] = true;
+			move[LEFT] = true;
 		} else {
+			move[UP] = true;
 			move[DOWN] = true;
 			move[RIGHT] = true;
 			move[LEFT] = true;
@@ -66,9 +78,15 @@ switch (directionn) {
 			move[DOWN] = false;
 			move[UP] = true;
 			move[LEFT] = true;
+		} else if (player_x == Exit.x-64 && player_y == Exit.y && global.steps < global.tiles) {
+			move[RIGHT] = false;
+			move[UP] = true;
+			move[DOWN] = true;
+			move[LEFT] = true;
 		} else {
 			move[UP] = true;
 			move[DOWN] = true;
+			move[RIGHT] = true;
 			move[LEFT] = true;
 		}
 		
@@ -87,10 +105,16 @@ switch (directionn) {
 			move[DOWN] = false;
 			move[UP] = true;
 			move[RIGHT] = true;
+		} else if (player_x == Exit.x+64 && player_y == Exit.y && global.steps < global.tiles) {
+			move[LEFT] = false;
+			move[UP] = true;
+			move[DOWN] = true;
+			move[RIGHT] = true;
 		} else {
 			move[UP] = true;
 			move[DOWN] = true;
 			move[RIGHT] = true;
+			move[LEFT] = true;
 		}	
 		
 		break;

@@ -115,6 +115,25 @@
             }
         },
         {
+            "Key": "15fa7138-2385-413f-9d69-6899fff90191",
+            "Value": {
+                "id": "31bc9ac3-bfca-4d68-aa02-b811eceba222",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/thirdCrackedSprite1\/thirdCrackedSprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1854083a-9553-4049-b1eb-43534b4647d2",
             "Value": {
                 "id": "29cf8743-998a-4f3f-a2d7-e5726b9b0dd4",
@@ -628,25 +647,6 @@
             }
         },
         {
-            "Key": "a6bb6146-c90d-4b1a-b83f-60f290d9b6d7",
-            "Value": {
-                "id": "34ea0db2-dcd3-4dd5-90d5-099728f6f5a7",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/object13\/object13.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a773b9d3-bba8-4d70-b403-9d1c29b2500d",
             "Value": {
                 "id": "1d4f0c87-e1fa-4ef2-aab3-55fbb70eb47c",
@@ -872,25 +872,6 @@
                 ],
                 "resourcePath": "sprites\/closedExitSprite\/closedExitSprite.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d37f2792-4cad-4b56-9b97-8b668ee6c8f1",
-            "Value": {
-                "id": "284abb24-0520-4f18-ab3b-bc7aea71fdf0",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/closedExit\/closedExit.yy",
-                "resourceType": "GMObject"
             }
         },
         {

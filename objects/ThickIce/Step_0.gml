@@ -6,6 +6,7 @@ if(place_meeting(x,y,Player) && change){
 		strength--
 		change=false
 		score+=100
+		global.steps++;
 		sprite_index=firstHalfCrackedSprite
 // If sturdy, make it cracked, and don't check for another collison until you step on it again
 	}

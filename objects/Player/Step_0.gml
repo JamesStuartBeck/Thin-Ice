@@ -14,29 +14,29 @@ if (start) {
 }
 
 if(move[UP] && keyboard_check_pressed(vk_up)) {
-	if(!place_meeting(x,y-64,IceWall)&&
-	   !place_meeting(x,y-64,SwitchWall)&&
+	if(!place_meeting(x,y-64,IceWall) &&
+	   !place_meeting(x,y-64,SwitchWall) &&
 	   !place_meeting(x,y-64,IceWallCorner)) {
 			y-=64
 			image_angle=0
 	}
 } else if(move[DOWN] && keyboard_check_pressed(vk_down)) {
-	if(!place_meeting(x,y+64,IceWall)&&
-	   !place_meeting(x,y+64,SwitchWall)&&
+	if(!place_meeting(x,y+64,IceWall) &&
+	   !place_meeting(x,y+64,SwitchWall) &&
 	   !place_meeting(x,y+64,IceWallCorner)) {
 			y+=64
 			image_angle=180
 	}
 } else if(move[LEFT] && keyboard_check_pressed(vk_left)) {
-	if(!place_meeting(x-64,y,IceWall)&&
-	   !place_meeting(x-64,y,SwitchWall)&&
+	if(!place_meeting(x-64,y,IceWall) &&
+	   !place_meeting(x-64,y,SwitchWall) &&
 	   !place_meeting(x-64,y,IceWallCorner)) {
 			x-=64
 			image_angle=90
 	}
 } else if(move[RIGHT] && keyboard_check_pressed(vk_right)) {
-	if(!place_meeting(x+64,y,IceWall)&&
-	   !place_meeting(x+64,y,SwitchWall)&&
+	if(!place_meeting(x+64,y,IceWall) &&
+	   !place_meeting(x+64,y,SwitchWall) &&
 	   !place_meeting(x+64,y,IceWallCorner)) {
 			x+=64
 			image_angle=270
@@ -49,6 +49,6 @@ player_y = y;
 
 enter_exit(move, directionn, player_x, player_y);
 
-if(place_meeting(x,y,Exit) && global.steps>=global.tiles) {
+if(place_meeting(x,y,Exit)) {
 	room_goto_next()
 }
