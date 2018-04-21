@@ -2,7 +2,7 @@
     "id": "15fa7138-2385-413f-9d69-6899fff90191",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "thirdCrackedSprite1",
+    "name": "thirdCrackedSprite",
     "For3D": false,
     "HTile": false,
     "VTile": false,

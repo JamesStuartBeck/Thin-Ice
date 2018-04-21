@@ -1,38 +1,38 @@
 {
-    "id": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4",
+    "id": "110cca9d-f588-466f-9cbf-1576f89af316",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ThickIce",
+    "name": "OneStepIce",
     "eventList": [
         {
-            "id": "01ebcf76-7bb4-4de2-82ff-393cc3ac06a2",
+            "id": "72ff2054-b538-422d-88b3-e31dd8ef3837",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4"
+            "m_owner": "110cca9d-f588-466f-9cbf-1576f89af316"
         },
         {
-            "id": "ee95fdbf-a68a-4734-acac-534cc1e2cb54",
+            "id": "56a525d7-9b4c-4b8e-8a06-093ae3c43997",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4"
+            "m_owner": "110cca9d-f588-466f-9cbf-1576f89af316"
         },
         {
-            "id": "27b887fc-1bf5-4a36-960a-b71dad3fd964",
+            "id": "577a42c2-fafa-4b3d-8089-d6edd4fb44f1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4"
+            "m_owner": "110cca9d-f588-466f-9cbf-1576f89af316"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,7 +51,9 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
     "spriteId": "51c30cae-c7ba-444a-bf6b-93b94d72ba64",
     "visible": true

@@ -91,7 +91,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/Ice\/Ice.yy",
+                "resourcePath": "objects\/OneStepIce\/OneStepIce.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -129,7 +129,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/thirdCrackedSprite1\/thirdCrackedSprite1.yy",
+                "resourcePath": "sprites\/thirdCrackedSprite\/thirdCrackedSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -225,25 +225,6 @@
                     "default"
                 ],
                 "resourcePath": "objects\/SwitchWall\/SwitchWall.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4",
-            "Value": {
-                "id": "3cd51dad-9e33-4b97-85d6-1b25ab33627a",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/ThickIce\/ThickIce.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -856,6 +837,25 @@
             }
         },
         {
+            "Key": "cd49ee5c-8323-4338-a5cf-c524199f5f70",
+            "Value": {
+                "id": "38a426fd-54af-4ab9-8206-5cde3225dc29",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/thirdCrackSprite\/thirdCrackSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cedd961e-9a08-469b-8bb1-57ff3b754731",
             "Value": {
                 "id": "82b5c92d-d4c9-445b-9cb2-95213ae7a15c",
@@ -872,6 +872,25 @@
                 ],
                 "resourcePath": "sprites\/closedExitSprite\/closedExitSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d61d795b-7296-4dd5-94d5-145be13843f0",
+            "Value": {
+                "id": "ad4c8a21-efbf-4396-895e-5d627aec44d8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/MultipleStepIce\/MultipleStepIce.yy",
+                "resourceType": "GMObject"
             }
         },
         {
