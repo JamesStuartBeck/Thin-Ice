@@ -34,6 +34,9 @@ if(place_meeting(x,y,Player) && change){
 }
 else if(!place_meeting(x,y,Player)){
 	change=true
+	if (strength == 2) {
+		sprite_index=twotothree;
+	}
 }
 
 if (sprite_index==thirdCrackedSprite) {
@@ -41,5 +44,7 @@ if (sprite_index==thirdCrackedSprite) {
 } else if(sprite_index==firstHalfCrackedSprite){
 	if(image_index>image_number-1){sprite_index=halfCrackedSprite}
 } else if(sprite_index==secondHalfCrackedSprite){
+	if(image_index>image_number-1){sprite_index=crackedIceSprite}
+} else if(sprite_index==stwotothree){
 	if(image_index>image_number-1){sprite_index=crackedIceSprite}
 }

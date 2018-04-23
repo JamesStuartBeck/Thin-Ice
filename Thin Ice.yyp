@@ -115,25 +115,6 @@
             }
         },
         {
-            "Key": "15fa7138-2385-413f-9d69-6899fff90191",
-            "Value": {
-                "id": "31bc9ac3-bfca-4d68-aa02-b811eceba222",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/thirdCrackedSprite\/thirdCrackedSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1854083a-9553-4049-b1eb-43534b4647d2",
             "Value": {
                 "id": "29cf8743-998a-4f3f-a2d7-e5726b9b0dd4",
@@ -286,9 +267,9 @@
             }
         },
         {
-            "Key": "3e05c7f4-8964-4a6b-b94e-71416524afc3",
+            "Key": "3cfb87ba-2e75-4ba4-9d39-fb084f2e2842",
             "Value": {
-                "id": "c6d14e93-9d7e-4645-9995-007aed62c4de",
+                "id": "797e0c4f-c86d-4cde-b962-baa781ae2f58",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -300,7 +281,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/secondHalfCrackedSprite\/secondHalfCrackedSprite.yy",
+                "resourcePath": "sprites\/threeCrackedIceSprite\/threeCrackedIceSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -400,25 +381,6 @@
             }
         },
         {
-            "Key": "7029ac23-1cc0-4bed-bd18-d7c38618b76f",
-            "Value": {
-                "id": "f959ffe7-45f1-4838-995f-35d50043e860",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/firstHalfCrackedSprite\/firstHalfCrackedSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7074446e-c333-451b-a411-ee94f3289c63",
             "Value": {
                 "id": "e5728339-d9d3-4f6d-8ca7-433dbc21a7a3",
@@ -434,6 +396,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/stoneSprite\/stoneSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "752410d8-0ebd-4b0f-a054-1c375abe06a8",
+            "Value": {
+                "id": "377f27c7-3e44-48d6-a514-dd622b942aaa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/threetotwo\/threetotwo.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -571,9 +552,9 @@
             }
         },
         {
-            "Key": "9e05b912-8393-42dc-bff1-c155b9110804",
+            "Key": "9f1467af-eec3-4154-8e51-11c5d2c08f5a",
             "Value": {
-                "id": "fa471879-66fe-4cef-9d7d-8237a255fff8",
+                "id": "65ee3f3e-e8f6-489e-a5c2-12520e2e61c7",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -585,7 +566,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/halfCrackedSprite\/halfCrackedSprite.yy",
+                "resourcePath": "sprites\/threeIceSprite\/threeIceSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -628,6 +609,25 @@
             }
         },
         {
+            "Key": "a5928d69-7a06-4414-954e-e6ed35b4fdd9",
+            "Value": {
+                "id": "ef7fc649-a5e3-4b0d-8b99-3627a4616ed3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/ThreeStepIceSprite\/ThreeStepIceSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a773b9d3-bba8-4d70-b403-9d1c29b2500d",
             "Value": {
                 "id": "1d4f0c87-e1fa-4ef2-aab3-55fbb70eb47c",
@@ -663,6 +663,25 @@
                 ],
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a93206cd-ea7e-4b4c-95d9-826906ab6bc9",
+            "Value": {
+                "id": "396d4d66-9bc8-4646-8733-a3c5819dc9d8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/twothinIceSprite\/twothinIceSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -818,6 +837,25 @@
             }
         },
         {
+            "Key": "cc11d538-3861-4134-9974-2f5071505b22",
+            "Value": {
+                "id": "0a230ca4-568b-467d-834f-23f7dd704392",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/TwoStepIceSprite\/TwoStepIceSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "fd96f80d-08cc-470d-9552-19ada844ccf1",
@@ -834,25 +872,6 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "cd49ee5c-8323-4338-a5cf-c524199f5f70",
-            "Value": {
-                "id": "38a426fd-54af-4ab9-8206-5cde3225dc29",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/thirdCrackSprite\/thirdCrackSprite.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -947,6 +966,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/iceWallOutsideCornerSprite\/iceWallOutsideCornerSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec688c5c-4cc6-4445-b3cb-45d6dd6f2cbc",
+            "Value": {
+                "id": "e5ce381d-0f59-4ebb-bd40-1744bb6954de",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/twoCrackedIceSprite\/twoCrackedIceSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
