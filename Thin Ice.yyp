@@ -571,6 +571,25 @@
             }
         },
         {
+            "Key": "988c2cf1-6026-4438-9b26-a16782579a3a",
+            "Value": {
+                "id": "54be318f-5393-4b55-9dff-688e334cf155",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/TwoStepIce\/TwoStepIce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e05b912-8393-42dc-bff1-c155b9110804",
             "Value": {
                 "id": "fa471879-66fe-4cef-9d7d-8237a255fff8",
@@ -889,7 +908,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/MultipleStepIce\/MultipleStepIce.yy",
+                "resourcePath": "objects\/ThreeStepIce\/ThreeStepIce.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -967,6 +986,25 @@
                 ],
                 "resourcePath": "views\/ef44e277-2656-45c5-bd8e-e925106526a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "efcbaa13-962a-4d9f-8171-0766ba121ad0",
+            "Value": {
+                "id": "3c55cd69-ff20-4cf6-8d0b-a7122e6c6d36",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/DummyIce\/DummyIce.yy",
+                "resourceType": "GMObject"
             }
         },
         {

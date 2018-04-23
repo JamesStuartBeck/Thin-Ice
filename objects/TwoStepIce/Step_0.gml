@@ -1,33 +1,18 @@
 // Checks for events with the floor
 
 if(place_meeting(x,y,Player) && change){
-	if(strength==3) {
-		strength--
-		change=false
-		score+=100
-		sprite_index=thirdCrackedSprite
-		if (virgin) {
-			virgin = false;
-			global.steps++;
-		}
-	} else if(strength==2) {
+	if(strength==2) {
 		strength--
 		change=false
 		score+=100
 		sprite_index=firstHalfCrackedSprite
-		if (virgin) {
-			virgin = false;
-			global.steps++;
-		}
+		global.steps++;
 	} else if(strength==1) {
 		strength--
 		change=false
 		score+=100
 		sprite_index=secondHalfCrackedSprite
-		if (virgin) {
-			virgin = false;
-			global.steps++;
-		}
+		global.steps++;
 	} else if(strength==0) {
 		room_goto(room)
 	}

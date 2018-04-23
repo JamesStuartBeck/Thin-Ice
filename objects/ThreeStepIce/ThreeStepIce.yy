@@ -2,7 +2,7 @@
     "id": "d61d795b-7296-4dd5-94d5-145be13843f0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "MultipleStepIce",
+    "name": "ThreeStepIce",
     "eventList": [
         {
             "id": "463d5e7a-a574-4a8b-951a-28a6d7032b83",
