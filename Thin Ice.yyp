@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "7680cf2b-f92f-4dc6-ad35-b36724103c54",
+            "Value": {
+                "id": "b78cac77-83e6-472d-8400-ff3a01892fe9",
+                "resourcePath": "sprites\\fallingIceSprite2\\fallingIceSprite2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7d2858df-e25b-4377-be4a-e34b93968516",
             "Value": {
                 "id": "0159d357-d0c3-4d56-aca2-5b7b5d9b0705",
@@ -455,6 +463,14 @@
             }
         },
         {
+            "Key": "bcb3cf3f-b249-473b-a191-c7eb1ecc8fe3",
+            "Value": {
+                "id": "5c1eea55-c341-4449-8a56-0dc9ac288aab",
+                "resourcePath": "sprites\\emptySprite\\emptySprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bd4ff445-7e0b-4f1c-bf52-b1582fc13268",
             "Value": {
                 "id": "94044c21-4794-410b-b276-cf72d8c48c1b",
@@ -548,6 +564,14 @@
                 "id": "1f3cd8b2-00a7-4848-90ec-c5e7a19db4d5",
                 "resourcePath": "views\\ef44e277-2656-45c5-bd8e-e925106526a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f36e8ac5-e4cf-4fca-b305-d79a551f7d4c",
+            "Value": {
+                "id": "879f8821-b8a6-48b4-8c65-61e01b18e279",
+                "resourcePath": "sprites\\fallingIceSprite\\fallingIceSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
