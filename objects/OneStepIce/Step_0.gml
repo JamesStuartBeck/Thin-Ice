@@ -1,0 +1,20 @@
+// Checks for events with the floor
+
+if(place_meeting(x,y,Player) && change){
+	if(strength==1) {
+		global.steps++;
+		strength--
+		change=false
+		score+=100
+		sprite_index=thinIceSprite
+	} else if(strength==0) {
+		room_goto(room)
+	}
+}
+else if(!place_meeting(x,y,Player)){
+	change=true
+}
+
+if(sprite_index==thinIceSprite){
+	if(image_index>image_number-1){sprite_index=crackedIceSprite}
+}
