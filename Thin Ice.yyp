@@ -381,6 +381,25 @@
             }
         },
         {
+            "Key": "5c88ab3a-70cd-454b-b572-46d1f96b62e1",
+            "Value": {
+                "id": "87dcc127-201b-4e75-a4b2-c14fae287702",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/ThreeStepIceSprite1\/ThreeStepIceSprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6f69e1f6-6366-4807-8bc5-c6d0d0a10d9e",
             "Value": {
                 "id": "e7817980-2638-4298-abe3-3eeb198f3603",
@@ -894,6 +913,25 @@
             }
         },
         {
+            "Key": "d3c65f25-01ba-45ca-b163-cf9fcdae52d3",
+            "Value": {
+                "id": "89ba3006-c310-41db-af41-bc6cfeaf1299",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/TwoStepIceSprite\/TwoStepIceSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d61d795b-7296-4dd5-94d5-145be13843f0",
             "Value": {
                 "id": "ad4c8a21-efbf-4396-895e-5d627aec44d8",
@@ -1005,6 +1043,25 @@
                 ],
                 "resourcePath": "objects\/DummyIce\/DummyIce.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f4094c03-9dc1-4b5b-a4c5-b004a235f111",
+            "Value": {
+                "id": "1db80e31-408e-4139-9591-91eabaa9fd6f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/test\/test.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
