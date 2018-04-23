@@ -476,6 +476,25 @@
             }
         },
         {
+            "Key": "82ab85f9-ca69-424d-923c-a85821674f5b",
+            "Value": {
+                "id": "7f72717b-f329-4674-9ab3-8f2c65beac46",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/dummyIce\/dummyIce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "846338c8-76d8-48f9-bde6-f8cba5d0ad7a",
             "Value": {
                 "id": "f865398f-187a-4ce5-9d7f-4638c3e7fe48",
