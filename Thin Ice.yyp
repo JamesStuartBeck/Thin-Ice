@@ -186,7 +186,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/Level3\/Level3.yy",
+                "resourcePath": "rooms\/Level2\/Level2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -433,7 +433,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/Level2\/Level2.yy",
+                "resourcePath": "rooms\/Level4\/Level4.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -509,7 +509,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/Level4\/Level4.yy",
+                "resourcePath": "rooms\/Level3\/Level3.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -761,6 +761,25 @@
             }
         },
         {
+            "Key": "b1bf61a7-0772-471a-a853-b23623268126",
+            "Value": {
+                "id": "0462c0b5-56cf-4344-85b9-d52d768a4200",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/dummyWall\/dummyWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b8ff2d83-7f03-46ce-b84b-326e060000f9",
             "Value": {
                 "id": "34a27457-9895-456a-a6fc-0f9bf26bb798",
@@ -966,25 +985,6 @@
                     "default"
                 ],
                 "resourcePath": "objects\/ThreeStepIce\/ThreeStepIce.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d6ff88a3-0830-46e4-9a43-1f017943211a",
-            "Value": {
-                "id": "500f5dbb-f406-4842-8eb0-675b0e664023",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/EndManager\/EndManager.yy",
                 "resourceType": "GMObject"
             }
         },

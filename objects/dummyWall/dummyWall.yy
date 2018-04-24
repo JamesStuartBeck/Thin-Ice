@@ -1,19 +1,10 @@
 {
-    "id": "efcbaa13-962a-4d9f-8171-0766ba121ad0",
+    "id": "b1bf61a7-0772-471a-a853-b23623268126",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "DummyIce",
+    "name": "dummyWall",
     "eventList": [
-        {
-            "id": "da708a89-306b-4219-9cf2-f5b635b13041",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "efcbaa13-962a-4d9f-8171-0766ba121ad0"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f4094c03-9dc1-4b5b-a4c5-b004a235f111",
+    "spriteId": "fddbcb8b-0d6e-4ced-989b-3633eb353839",
     "visible": true
 }
