@@ -229,6 +229,25 @@
             }
         },
         {
+            "Key": "29bffb37-2a42-475f-b657-a91f1e09dfed",
+            "Value": {
+                "id": "ee252574-3499-4141-9c72-9bc40a4ce709",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/Level5\/Level5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2bdc83e6-c976-41bf-ace0-ace35cebbaea",
             "Value": {
                 "id": "e29ac928-d0f5-4dab-a7f9-fdeaa2b54bc0",
@@ -490,7 +509,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/EndScreen\/EndScreen.yy",
+                "resourcePath": "rooms\/Level4\/Level4.yy",
                 "resourceType": "GMRoom"
             }
         },
