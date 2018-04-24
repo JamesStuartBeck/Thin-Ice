@@ -77,6 +77,25 @@
             }
         },
         {
+            "Key": "0e5144fc-ad55-46f9-b053-2e7e445f32f6",
+            "Value": {
+                "id": "6296c5d4-b02a-40ea-99ea-3315fc12a8df",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/dummyWall\/dummyWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "110cca9d-f588-466f-9cbf-1576f89af316",
             "Value": {
                 "id": "b98c2d27-638a-46ed-bdd2-0b308b3f7932",
@@ -966,25 +985,6 @@
                     "default"
                 ],
                 "resourcePath": "objects\/ThreeStepIce\/ThreeStepIce.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d6ff88a3-0830-46e4-9a43-1f017943211a",
-            "Value": {
-                "id": "500f5dbb-f406-4842-8eb0-675b0e664023",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/EndManager\/EndManager.yy",
                 "resourceType": "GMObject"
             }
         },
