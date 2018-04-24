@@ -39,6 +39,25 @@
     },
     "resources": [
         {
+            "Key": "00d629f6-a4ca-4ec7-828f-7527650d3a1e",
+            "Value": {
+                "id": "3047f27d-bdf1-46b3-9611-7b2a88bad17b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/dummyWall\/dummyWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0334f0f8-8781-4d76-8ccd-505bf5278713",
             "Value": {
                 "id": "1baa1500-a24e-4d9c-a722-6fdca935ef97",
@@ -226,25 +245,6 @@
                 ],
                 "resourcePath": "objects\/SwitchWall\/SwitchWall.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "29bffb37-2a42-475f-b657-a91f1e09dfed",
-            "Value": {
-                "id": "ee252574-3499-4141-9c72-9bc40a4ce709",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/Level5\/Level5.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -492,25 +492,6 @@
                 ],
                 "resourcePath": "views\/7d2858df-e25b-4377-be4a-e34b93968516.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "7dcb31e4-4df5-46e4-83b8-8883e1d5e376",
-            "Value": {
-                "id": "122a0e94-e217-449d-acf9-14925e9dc590",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/Level4\/Level4.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -966,25 +947,6 @@
                     "default"
                 ],
                 "resourcePath": "objects\/ThreeStepIce\/ThreeStepIce.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d6ff88a3-0830-46e4-9a43-1f017943211a",
-            "Value": {
-                "id": "500f5dbb-f406-4842-8eb0-675b0e664023",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/EndManager\/EndManager.yy",
                 "resourceType": "GMObject"
             }
         },

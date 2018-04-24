@@ -1,8 +1,8 @@
 {
-    "id": "efcbaa13-962a-4d9f-8171-0766ba121ad0",
+    "id": "00d629f6-a4ca-4ec7-828f-7527650d3a1e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "DummyIce",
+    "name": "dummyWall",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f4094c03-9dc1-4b5b-a4c5-b004a235f111",
+    "spriteId": "fddbcb8b-0d6e-4ced-989b-3633eb353839",
     "visible": true
 }
