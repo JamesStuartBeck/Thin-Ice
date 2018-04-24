@@ -305,6 +305,25 @@
             }
         },
         {
+            "Key": "4210d61c-f688-4e35-8330-cba321ee8f40",
+            "Value": {
+                "id": "10b7a3b5-a7df-4de6-94e3-58cb0cde71f1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/zeroStepIceTile\/zeroStepIceTile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "51c30cae-c7ba-444a-bf6b-93b94d72ba64",
             "Value": {
                 "id": "f195b603-4658-4460-a29c-36f8dc8e543a",
@@ -628,6 +647,25 @@
             }
         },
         {
+            "Key": "a6d70f14-3db2-4cff-b218-a25ec748b41d",
+            "Value": {
+                "id": "e90f7553-939e-4155-ab91-3afe73b20519",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/onetozero\/onetozero.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a773b9d3-bba8-4d70-b403-9d1c29b2500d",
             "Value": {
                 "id": "1d4f0c87-e1fa-4ef2-aab3-55fbb70eb47c",
@@ -723,6 +761,25 @@
             }
         },
         {
+            "Key": "b849ab0a-add4-47f3-8041-32c3eac533ee",
+            "Value": {
+                "id": "7c99715b-fd3d-4af4-9f28-33ed42e56821",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/twotoone\/twotoone.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b8ff2d83-7f03-46ce-b84b-326e060000f9",
             "Value": {
                 "id": "34a27457-9895-456a-a6fc-0f9bf26bb798",
@@ -757,25 +814,6 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/iceWallSprite\/iceWallSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c4c487dc-5a15-4518-a2fe-46d52dc95e61",
-            "Value": {
-                "id": "7f4dba94-1c21-4fc1-9c73-9ed3cf4e5cbd",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/switchSprite\/switchSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -908,7 +946,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/MultipleStepIce\/MultipleStepIce.yy",
+                "resourcePath": "objects\/ThreeStepIce\/ThreeStepIce.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1042,25 +1080,6 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/playerSpriteUp\/playerSpriteUp.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "fddbcb8b-0d6e-4ced-989b-3633eb353839",
-            "Value": {
-                "id": "93a6b6c7-4764-4a26-b531-98b6c9ae35b0",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/icebergSprite\/icebergSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
