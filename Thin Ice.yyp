@@ -210,6 +210,25 @@
             }
         },
         {
+            "Key": "29e1cef0-33b8-4594-b5d8-a66aaae4603d",
+            "Value": {
+                "id": "c42dfae9-654e-4905-a3bd-ffc3d044d188",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/TwoStepIce\/TwoStepIce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2bdc83e6-c976-41bf-ace0-ace35cebbaea",
             "Value": {
                 "id": "e29ac928-d0f5-4dab-a7f9-fdeaa2b54bc0",
