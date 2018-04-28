@@ -1,38 +1,38 @@
 {
-    "id": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4",
+    "id": "d61d795b-7296-4dd5-94d5-145be13843f0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ThickIce",
+    "name": "ThreeStepIce",
     "eventList": [
         {
-            "id": "01ebcf76-7bb4-4de2-82ff-393cc3ac06a2",
+            "id": "463d5e7a-a574-4a8b-951a-28a6d7032b83",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4"
+            "m_owner": "d61d795b-7296-4dd5-94d5-145be13843f0"
         },
         {
-            "id": "ee95fdbf-a68a-4734-acac-534cc1e2cb54",
+            "id": "7cd38972-bf8d-42c2-ba9b-d5a7b58ee027",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4"
+            "m_owner": "d61d795b-7296-4dd5-94d5-145be13843f0"
         },
         {
-            "id": "27b887fc-1bf5-4a36-960a-b71dad3fd964",
+            "id": "3178d20c-714e-4189-843a-afeca38aa780",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4"
+            "m_owner": "d61d795b-7296-4dd5-94d5-145be13843f0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,7 +51,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "9884bdd3-0efb-43da-adbc-18ebcbcf5dd4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "init_strength",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "51c30cae-c7ba-444a-bf6b-93b94d72ba64",
     "visible": true

@@ -2,7 +2,7 @@
     "id": "110cca9d-f588-466f-9cbf-1576f89af316",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Ice",
+    "name": "OneStepIce",
     "eventList": [
         {
             "id": "72ff2054-b538-422d-88b3-e31dd8ef3837",
@@ -51,7 +51,9 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
     "spriteId": "51c30cae-c7ba-444a-bf6b-93b94d72ba64",
     "visible": true

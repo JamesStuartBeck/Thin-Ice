@@ -1,38 +1,38 @@
 {
-    "id": "95a890ba-40b3-40dd-93ed-af942cfac7de",
+    "id": "988c2cf1-6026-4438-9b26-a16782579a3a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Exit",
+    "name": "TwoStepIce",
     "eventList": [
         {
-            "id": "f11d9733-e331-47bb-9363-77a847f94d60",
+            "id": "004b4432-109a-4cb7-a7f4-34e85e7e7fbc",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "95a890ba-40b3-40dd-93ed-af942cfac7de"
+            "m_owner": "988c2cf1-6026-4438-9b26-a16782579a3a"
         },
         {
-            "id": "ff5cd3ab-1f2f-47dc-b255-f7f3566fdfed",
+            "id": "976e526c-ae97-430b-a016-ba66d2e978bc",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "95a890ba-40b3-40dd-93ed-af942cfac7de"
+            "m_owner": "988c2cf1-6026-4438-9b26-a16782579a3a"
         },
         {
-            "id": "ae036ce3-e6ae-42cd-9b79-ae74853ed650",
+            "id": "dc5eb24f-4820-4a5a-9ac5-0e31e49f770c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "95a890ba-40b3-40dd-93ed-af942cfac7de"
+            "m_owner": "988c2cf1-6026-4438-9b26-a16782579a3a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,8 +51,10 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
-    "spriteId": "cedd961e-9a08-469b-8bb1-57ff3b754731",
+    "spriteId": "51c30cae-c7ba-444a-bf6b-93b94d72ba64",
     "visible": true
 }
