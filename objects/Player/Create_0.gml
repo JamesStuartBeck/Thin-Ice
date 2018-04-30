@@ -12,3 +12,5 @@ move[UP] = true;
 move[DOWN] = true;
 move[LEFT] = true;
 move[RIGHT] = true;
+
+depth=-100

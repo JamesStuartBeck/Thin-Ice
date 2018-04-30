@@ -2,23 +2,23 @@
 
 if(place_meeting(x,y,Player) && change){
 	if(strength==3) {
+		global.steps++;
 		strength--
 		change=false
 		score+=100
-		sprite_index=thirdCrackedSprite
-		global.steps++;
+		sprite_index=thinIceSprite3
 	} else if(strength==2) {
+		global.steps++;
 		strength--
 		change=false
 		score+=100
-		sprite_index=firstHalfCrackedSprite
-		global.steps++;
+		sprite_index=thinIceSprite2
 	} else if(strength==1) {
+		global.steps++;
 		strength--
 		change=false
 		score+=100
-		sprite_index=secondHalfCrackedSprite
-		global.steps++;
+		sprite_index=thinIceSprite
 	} else if(strength==0) {
 		room_goto(room)
 	}
@@ -27,10 +27,10 @@ else if(!place_meeting(x,y,Player)){
 	change=true
 }
 
-if (sprite_index==thirdCrackedSprite) {
-	if(image_index>image_number-1){sprite_index=thirdCrackSprite}
-} else if(sprite_index==firstHalfCrackedSprite){
-	if(image_index>image_number-1){sprite_index=halfCrackedSprite}
-} else if(sprite_index==secondHalfCrackedSprite){
+if(sprite_index==thinIceSprite){
 	if(image_index>image_number-1){sprite_index=crackedIceSprite}
+} else if(sprite_index==thinIceSprite2){
+	if(image_index>image_number-1){sprite_index=solidIceSprite}
+} else if(sprite_index==thinIceSprite3){
+	if(image_index>image_number-1){sprite_index=TwoStepIceSprite}
 }
