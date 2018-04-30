@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "4210d61c-f688-4e35-8330-cba321ee8f40",
+            "Value": {
+                "id": "2aa7b72f-d885-407a-826f-667b10bb3ac5",
+                "resourcePath": "sprites\\zeroStepIceTile\\zeroStepIceTile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "51409a15-8857-4201-b404-7bccb8338c21",
             "Value": {
                 "id": "b306f4cd-c28b-44e9-bb6c-7bb2189bc911",
@@ -460,6 +468,14 @@
                 "id": "2b02bd61-4741-40a1-877c-26a9bf2035fd",
                 "resourcePath": "views\/a52e67af-3df9-4f76-ad50-9bd1a752e08f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a6d70f14-3db2-4cff-b218-a25ec748b41d",
+            "Value": {
+                "id": "628b5260-8cd3-4edf-9895-9f51eb86d4bd",
+                "resourcePath": "sprites\\onetozero\\onetozero.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

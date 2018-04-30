@@ -28,8 +28,11 @@ else if(place_meeting(x,y,Evil) && change){
 
 else if(!(place_meeting(x,y,Player) || place_meeting(x,y,Evil))){
 	change=true
+	if(sprite_index=crackedIceSprite){sprite_index=onetozero}
 }
 
 if(sprite_index==thinIceSprite){
 	if(image_index>image_number-1){sprite_index=crackedIceSprite}
+} else if(sprite_index==onetozero){
+	if(image_index>image_number-1){sprite_index=zeroStepIceTile}
 }
