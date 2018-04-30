@@ -17,7 +17,24 @@ if(place_meeting(x,y,Player) && change){
 		room_goto(room)
 	}
 }
-else if(!place_meeting(x,y,Player)){
+else if(place_meeting(x,y,Evil) && change){
+	if(strength==2) {
+		global.steps++;
+		strength--
+		change=false
+		score+=100
+		sprite_index=thinIceSprite2
+	} else if(strength==1) {
+		global.steps++;
+		strength--
+		change=false
+		score+=100
+		sprite_index=thinIceSprite
+	} else if(strength==0) {
+		instance_destroy(Evil)
+	}
+}
+else if(!(place_meeting(x,y,Player) || place_meeting(x,y,Player))){
 	change=true
 }
 

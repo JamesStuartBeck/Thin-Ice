@@ -151,19 +151,19 @@
             }
         },
         {
-            "Key": "1f8a0c9a-37b4-450c-b98d-12fff045f8c4",
-            "Value": {
-                "id": "4728c10d-990d-418f-8d2e-adaf5153820f",
-                "resourcePath": "objects\\ThickIce\\ThickIce.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "29bffb37-2a42-475f-b657-a91f1e09dfed",
             "Value": {
                 "id": "0b2836d0-97c0-4f50-8ed1-f4155965e16c",
                 "resourcePath": "rooms\\Stage1_6\\Stage1_6.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "29c9a4aa-fb0b-43ca-a7ad-7d24c76da881",
+            "Value": {
+                "id": "1bc9d24e-e4f6-4584-b253-4768f7d0eb5f",
+                "resourcePath": "objects\\Evil\\Evil.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -180,6 +180,14 @@
                 "id": "dc4ba4f5-44bf-4f38-877b-8bbb8ebd9ac1",
                 "resourcePath": "views\/300c1d1a-ee89-4323-a3ed-57b6b1785efd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "336709b5-97ea-418a-b93f-c53638063940",
+            "Value": {
+                "id": "1e461c0b-9b63-4007-9263-284448066496",
+                "resourcePath": "rooms\\Stage3_1\\Stage3_1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -251,6 +259,14 @@
             "Value": {
                 "id": "87dcc127-201b-4e75-a4b2-c14fae287702",
                 "resourcePath": "sprites\/ThreeStepIceSprite1\/ThreeStepIceSprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e493d39-63ad-4f3a-bb2a-d291b9cae922",
+            "Value": {
+                "id": "fbcb8a34-ba5e-432c-aa92-73d9980f173d",
+                "resourcePath": "sprites\\evilSpriteUp\\evilSpriteUp.yy",
                 "resourceType": "GMSprite"
             }
         },
