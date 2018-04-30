@@ -1,4 +1,4 @@
 // Checks for game input
 
-if(Switch.on){instance_destroy()}
+if(global.on){instance_destroy(self)}
 // Destroys wall when the switch is triggered
