@@ -39,9 +39,9 @@
     },
     "resources": [
         {
-            "Key": "0334f0f8-8781-4d76-8ccd-505bf5278713",
+            "Key": "00349ddd-7713-49ec-910b-de53ebfee0b7",
             "Value": {
-                "id": "1baa1500-a24e-4d9c-a722-6fdca935ef97",
+                "id": "de1c7669-a27a-4158-9c79-8d278811a794",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -53,14 +53,14 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/GameManager\/GameManager.yy",
+                "resourcePath": "objects\/next_obj\/next_obj.yy",
                 "resourceType": "GMObject"
             }
         },
         {
-            "Key": "0ab38600-3854-4e3d-a31e-79833b0344fa",
+            "Key": "005637a1-45db-4cdb-bd3b-b878c42b52dd",
             "Value": {
-                "id": "4097d602-26c9-44d8-82e8-7cedea235daa",
+                "id": "eccde76d-dcd9-4e17-ae9a-a0759645a127",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -72,14 +72,14 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/thinIceSprite\/thinIceSprite.yy",
+                "resourcePath": "sprites\/startScreenTitle\/startScreenTitle.yy",
                 "resourceType": "GMSprite"
             }
         },
         {
-            "Key": "110cca9d-f588-466f-9cbf-1576f89af316",
+            "Key": "0e230592-85e3-4822-a2eb-09e45375d0c9",
             "Value": {
-                "id": "b98c2d27-638a-46ed-bdd2-0b308b3f7932",
+                "id": "6bb0696b-58f3-4c26-b8f0-3584adada061",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -91,8 +91,27 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/OneStepIce\/OneStepIce.yy",
+                "resourcePath": "objects\/button\/button.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "130413f9-678d-4bef-aee1-cf65fb926aea",
+            "Value": {
+                "id": "ecb03030-fa96-4dbe-96bb-82fb2c5e96ff",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/startMenu\/startMenu.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -153,25 +172,6 @@
             }
         },
         {
-            "Key": "19ce0724-c5c5-438c-ab4a-ce91046fcf1b",
-            "Value": {
-                "id": "6ee53c28-fe8a-4872-8574-b5e3516188b6",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/Level3\/Level3.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "1dfbe43c-2de3-44cb-9491-c5bf499d1fa7",
             "Value": {
                 "id": "5bca4f7b-5321-410d-b9d2-3c4e998230ca",
@@ -188,44 +188,6 @@
                 ],
                 "resourcePath": "views\/1dfbe43c-2de3-44cb-9491-c5bf499d1fa7.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "1f401b9f-2c9c-4be5-ad08-dcb7c99e9fc0",
-            "Value": {
-                "id": "25cbfed5-17a9-4d90-8b09-5d1c5ede6936",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/SwitchWall\/SwitchWall.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "29e1cef0-33b8-4594-b5d8-a66aaae4603d",
-            "Value": {
-                "id": "c42dfae9-654e-4905-a3bd-ffc3d044d188",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/TwoStepIce\/TwoStepIce.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -267,9 +229,9 @@
             }
         },
         {
-            "Key": "3971a215-324f-4b8d-84a7-a240f3159a7e",
+            "Key": "4d711d12-b3ab-4c0d-b7c0-c50e67a28c57",
             "Value": {
-                "id": "43a40fb4-14c4-4c96-a839-188ba268974e",
+                "id": "c181f8ec-e00e-42b4-81ab-9f8e23d5f80d",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -281,14 +243,14 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/IceWallCorner\/IceWallCorner.yy",
-                "resourceType": "GMObject"
+                "resourcePath": "rooms\/startScreen\/startScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
-            "Key": "3cfb87ba-2e75-4ba4-9d39-fb084f2e2842",
+            "Key": "4e9f0f83-8807-4364-92c7-8021828a262e",
             "Value": {
-                "id": "797e0c4f-c86d-4cde-b962-baa781ae2f58",
+                "id": "64cc049a-5722-453a-b98a-dac16d1a23bd",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -300,14 +262,14 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/threeCrackedIceSprite\/threeCrackedIceSprite.yy",
-                "resourceType": "GMSprite"
+                "resourcePath": "rooms\/CreditsRoom\/CreditsRoom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
-            "Key": "3ed14b1f-f266-4cee-a54a-d20157176049",
+            "Key": "51bf7698-be1a-49d8-b7de-f4e7890983a2",
             "Value": {
-                "id": "1ebfc078-dad4-4b45-9616-52a3700aa4a4",
+                "id": "257a6ca3-bb1b-4647-a6c2-932aa18243eb",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -319,45 +281,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/IceWall\/IceWall.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "4210d61c-f688-4e35-8330-cba321ee8f40",
-            "Value": {
-                "id": "10b7a3b5-a7df-4de6-94e3-58cb0cde71f1",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/zeroStepIceTile\/zeroStepIceTile.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "51c30cae-c7ba-444a-bf6b-93b94d72ba64",
-            "Value": {
-                "id": "f195b603-4658-4460-a29c-36f8dc8e543a",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/solidIceSprite\/solidIceSprite.yy",
+                "resourcePath": "sprites\/endScreenSprite\/endScreenSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -381,9 +305,9 @@
             }
         },
         {
-            "Key": "59f0156a-82f4-451d-bc94-85d963c602c4",
+            "Key": "564a9a88-f5b6-4288-83bc-6828e4456546",
             "Value": {
-                "id": "c5b5ecbd-39c5-40af-995b-456ac72a2b88",
+                "id": "bc059a7b-cded-4de2-b222-68b9b1d4953b",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -395,14 +319,14 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/crackedIceSprite\/crackedIceSprite.yy",
-                "resourceType": "GMSprite"
+                "resourcePath": "objects\/storyTeller\/storyTeller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
-            "Key": "6f69e1f6-6366-4807-8bc5-c6d0d0a10d9e",
+            "Key": "5e55dee3-ce85-4960-b03b-e32fc6be947e",
             "Value": {
-                "id": "e7817980-2638-4298-abe3-3eeb198f3603",
+                "id": "41a80959-9dc6-4364-a0af-0fd2fb21a990",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -414,45 +338,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/Level2\/Level2.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "7074446e-c333-451b-a411-ee94f3289c63",
-            "Value": {
-                "id": "e5728339-d9d3-4f6d-8ca7-433dbc21a7a3",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/stoneSprite\/stoneSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "752410d8-0ebd-4b0f-a054-1c375abe06a8",
-            "Value": {
-                "id": "377f27c7-3e44-48d6-a514-dd622b942aaa",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/threetotwo\/threetotwo.yy",
+                "resourcePath": "sprites\/storyBackground\/storyBackground.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -476,9 +362,9 @@
             }
         },
         {
-            "Key": "7dcb31e4-4df5-46e4-83b8-8883e1d5e376",
+            "Key": "7e907956-7229-48ef-ad04-db81996b6c83",
             "Value": {
-                "id": "122a0e94-e217-449d-acf9-14925e9dc590",
+                "id": "2fdaefc8-b948-4e1f-bdf2-39e49a261a48",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -490,45 +376,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/EndScreen\/EndScreen.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "846338c8-76d8-48f9-bde6-f8cba5d0ad7a",
-            "Value": {
-                "id": "f865398f-187a-4ce5-9d7f-4638c3e7fe48",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/Stone\/Stone.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "8ab46d10-3075-47e9-a186-d177ae9daf32",
-            "Value": {
-                "id": "4dcecea5-f30b-4ccb-853f-730a83b02f1a",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/Switch\/Switch.yy",
+                "resourcePath": "objects\/back_obj\/back_obj.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -547,7 +395,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/Player\/Player.yy",
+                "resourcePath": "objects\/welcomeScreenPlayer\/welcomeScreenPlayer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -571,9 +419,9 @@
             }
         },
         {
-            "Key": "95a890ba-40b3-40dd-93ed-af942cfac7de",
+            "Key": "8f21dcc4-bbb6-4930-9e87-514522c090d3",
             "Value": {
-                "id": "7dd5eeac-9433-42b0-a3e6-d0ffd0d176ca",
+                "id": "2a3c8c72-4ba7-4e39-bfa5-d1bec745ba6c",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -585,46 +433,27 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/Exit\/Exit.yy",
+                "resourcePath": "rooms\/endScreen\/endScreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a2262105-48a5-418a-8e3b-a6d1d8592576",
+            "Value": {
+                "id": "5d87a253-aa38-459f-a239-84aff375a518",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/welcomeScreenManager\/welcomeScreenManager.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "9f1467af-eec3-4154-8e51-11c5d2c08f5a",
-            "Value": {
-                "id": "65ee3f3e-e8f6-489e-a5c2-12520e2e61c7",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/threeIceSprite\/threeIceSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a194f996-88e5-413b-a7a0-34d25f39f7f4",
-            "Value": {
-                "id": "7a003103-ee9f-46c1-b11b-09db309a2779",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/exitSprite\/exitSprite.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -644,44 +473,6 @@
                 ],
                 "resourcePath": "views\/a52e67af-3df9-4f76-ad50-9bd1a752e08f.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a5928d69-7a06-4414-954e-e6ed35b4fdd9",
-            "Value": {
-                "id": "ef7fc649-a5e3-4b0d-8b99-3627a4616ed3",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/ThreeStepIceSprite\/ThreeStepIceSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a6d70f14-3db2-4cff-b218-a25ec748b41d",
-            "Value": {
-                "id": "e90f7553-939e-4155-ab91-3afe73b20519",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/onetozero\/onetozero.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -723,25 +514,6 @@
             }
         },
         {
-            "Key": "a93206cd-ea7e-4b4c-95d9-826906ab6bc9",
-            "Value": {
-                "id": "396d4d66-9bc8-4646-8733-a3c5819dc9d8",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/twothinIceSprite\/twothinIceSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "aa5b1af2-5c91-46e3-881e-6399195d988b",
             "Value": {
                 "id": "65bb8c5e-8f6e-403a-b3be-f45b4ba1aef4",
@@ -761,9 +533,9 @@
             }
         },
         {
-            "Key": "af731fc5-c5eb-4a33-a4ed-27b78387f565",
+            "Key": "b1514d22-aefe-4ac3-8584-9b606761c616",
             "Value": {
-                "id": "ae5bd8c5-3a01-4e89-af27-b3515965fbfe",
+                "id": "74aae6e3-c92d-449b-b157-dafaf8ff7524",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -775,26 +547,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/iceWallCornerSprite\/iceWallCornerSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b849ab0a-add4-47f3-8041-32c3eac533ee",
-            "Value": {
-                "id": "7c99715b-fd3d-4af4-9f28-33ed42e56821",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/twotoone\/twotoone.yy",
+                "resourcePath": "sprites\/welcomeScreenBackground\/welcomeScreenBackground.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -818,9 +571,9 @@
             }
         },
         {
-            "Key": "bd4ff445-7e0b-4f1c-bf52-b1582fc13268",
+            "Key": "bdae8782-aa6e-4454-a2bd-52c6911704c7",
             "Value": {
-                "id": "94044c21-4794-410b-b276-cf72d8c48c1b",
+                "id": "3b0ec0f2-4f8b-4aab-ac75-46aa98c0ed2d",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -832,27 +585,8 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/iceWallSprite\/iceWallSprite.yy",
+                "resourcePath": "sprites\/welcomeScreenTitle\/welcomeScreenTitle.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c4d9b74e-0fe4-4e1d-8cc1-6d2687ebee7c",
-            "Value": {
-                "id": "7c903ff0-d348-4e0f-bf1b-8f4868e45168",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/GeneralManager\/GeneralManager.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -889,27 +623,8 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/Level1\/Level1.yy",
+                "resourcePath": "rooms\/welcomeScreen\/welcomeScreen.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "cc11d538-3861-4134-9974-2f5071505b22",
-            "Value": {
-                "id": "0a230ca4-568b-467d-834f-23f7dd704392",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/TwoStepIceSprite\/TwoStepIceSprite.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -932,9 +647,9 @@
             }
         },
         {
-            "Key": "cedd961e-9a08-469b-8bb1-57ff3b754731",
+            "Key": "d1ccb608-8a6d-420e-a4e9-d96a1fc9d20a",
             "Value": {
-                "id": "82b5c92d-d4c9-445b-9cb2-95213ae7a15c",
+                "id": "600a95ab-50e2-4709-ab90-0bf4862dbeeb",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -946,14 +661,14 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/closedExitSprite\/closedExitSprite.yy",
+                "resourcePath": "sprites\/buttonBackground\/buttonBackground.yy",
                 "resourceType": "GMSprite"
             }
         },
         {
-            "Key": "d61d795b-7296-4dd5-94d5-145be13843f0",
+            "Key": "d90761f2-eb68-48f7-a6b2-c186b8fe7635",
             "Value": {
-                "id": "ad4c8a21-efbf-4396-895e-5d627aec44d8",
+                "id": "197833fb-b76a-40df-8bfa-a986e9c81ffb",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -965,71 +680,14 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/ThreeStepIce\/ThreeStepIce.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d6ff88a3-0830-46e4-9a43-1f017943211a",
-            "Value": {
-                "id": "500f5dbb-f406-4842-8eb0-675b0e664023",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/EndManager\/EndManager.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ddb61bf4-999a-41eb-b17e-bcb598d43464",
-            "Value": {
-                "id": "711bc78f-2496-4bc7-b11c-04eedd8edf0e",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/IceWallOutsideCorner\/IceWallOutsideCorner.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "eb81aca4-8b3a-48ce-bc0a-c41ebd7a4b82",
-            "Value": {
-                "id": "590fcc90-ca2d-41e6-b7ca-d90d398e0db4",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/iceWallOutsideCornerSprite\/iceWallOutsideCornerSprite.yy",
+                "resourcePath": "sprites\/back\/back.yy",
                 "resourceType": "GMSprite"
             }
         },
         {
-            "Key": "ec688c5c-4cc6-4445-b3cb-45d6dd6f2cbc",
+            "Key": "df36cf1c-5259-4cea-891d-a07f747b6aba",
             "Value": {
-                "id": "e5ce381d-0f59-4ebb-bd40-1744bb6954de",
+                "id": "20d9c336-5cd2-43c7-843d-2507ed3dd10a",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -1041,7 +699,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/twoCrackedIceSprite\/twoCrackedIceSprite.yy",
+                "resourcePath": "sprites\/next\/next.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1119,6 +777,25 @@
                 ],
                 "resourcePath": "views\/fe35b613-2a53-4c74-832b-880845f77ad8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe6c0592-2235-46c2-b43b-6f7b8d9c2e8f",
+            "Value": {
+                "id": "17a772f4-6028-4af4-9f91-e83b598b00d9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/Story\/Story.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
