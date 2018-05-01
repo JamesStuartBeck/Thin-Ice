@@ -1,18 +1,28 @@
 {
-    "id": "564a9a88-f5b6-4288-83bc-6828e4456546",
+    "id": "fddbe844-e340-49b2-8cb3-668a36f21dad",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "storyTeller",
+    "name": "level_button",
     "eventList": [
         {
-            "id": "987bcb3e-dd40-40eb-bbe4-b55ec21782ad",
+            "id": "24fa4429-934f-443e-95b7-c259ab058827",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "564a9a88-f5b6-4288-83bc-6828e4456546"
+            "m_owner": "fddbe844-e340-49b2-8cb3-668a36f21dad"
+        },
+        {
+            "id": "8e8c6608-d61d-43fd-96f2-36d3e3fa2422",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "fddbe844-e340-49b2-8cb3-668a36f21dad"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "821ac416-7e17-48fb-8255-a0fdba1f3413",
+            "id": "d10274c7-7c8b-4125-90d6-769f39df3f24",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -43,11 +53,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "roomId",
-            "varType": 0
+            "varName": "title",
+            "varType": 2
         }
     ],
     "solid": false,
-    "spriteId": "5e55dee3-ce85-4960-b03b-e32fc6be947e",
+    "spriteId": "dd57062c-6a19-4827-8574-2ac24e9c5bd9",
     "visible": true
 }
