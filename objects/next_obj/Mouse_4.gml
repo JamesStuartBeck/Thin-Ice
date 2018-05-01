@@ -1,1 +1,0 @@
-room_goto(Level0_1);

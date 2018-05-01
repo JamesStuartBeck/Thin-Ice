@@ -1,28 +1,28 @@
 {
-    "id": "7e907956-7229-48ef-ad04-db81996b6c83",
+    "id": "4f0d26e7-77ea-4834-9305-39e4e34f7e58",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "back_obj",
+    "name": "pauseMenu",
     "eventList": [
         {
-            "id": "21cdc1d5-94d7-43d5-b696-861fbbd4ca11",
+            "id": "b1241c2e-a62a-4894-8a91-b81466e8b3c7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "7e907956-7229-48ef-ad04-db81996b6c83"
+            "m_owner": "4f0d26e7-77ea-4834-9305-39e4e34f7e58"
         },
         {
-            "id": "71f2acbd-951c-424b-840a-3ffe377676e9",
+            "id": "8a4d253e-e81f-41cf-ac39-330e7dc4f123",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "7e907956-7229-48ef-ad04-db81996b6c83"
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "4f0d26e7-77ea-4834-9305-39e4e34f7e58"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,23 +41,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "f006c188-07a5-48e9-8f3a-c47b83ce23c4",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "prevRoom",
-            "varType": 2
-        }
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "d90761f2-eb68-48f7-a6b2-c186b8fe7635",
+    "spriteId": "5e55dee3-ce85-4960-b03b-e32fc6be947e",
     "visible": true
 }

@@ -1,18 +1,28 @@
 {
-    "id": "564a9a88-f5b6-4288-83bc-6828e4456546",
+    "id": "476cda42-6318-4f89-bd3e-92bf23febac6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "storyTeller",
+    "name": "pauseButton",
     "eventList": [
         {
-            "id": "987bcb3e-dd40-40eb-bbe4-b55ec21782ad",
+            "id": "883883e6-c312-43e4-91f5-9f72ca1019b5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "564a9a88-f5b6-4288-83bc-6828e4456546"
+            "m_owner": "476cda42-6318-4f89-bd3e-92bf23febac6"
+        },
+        {
+            "id": "bc5f1068-d4a2-4b22-858e-6f174fbb63fd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "476cda42-6318-4f89-bd3e-92bf23febac6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,23 +41,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "821ac416-7e17-48fb-8255-a0fdba1f3413",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "roomId",
-            "varType": 0
-        }
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "5e55dee3-ce85-4960-b03b-e32fc6be947e",
+    "spriteId": "f84f0589-fb22-4544-94cd-fa6eecc94dea",
     "visible": true
 }

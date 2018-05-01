@@ -39,25 +39,6 @@
     },
     "resources": [
         {
-            "Key": "00349ddd-7713-49ec-910b-de53ebfee0b7",
-            "Value": {
-                "id": "de1c7669-a27a-4158-9c79-8d278811a794",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/next_obj\/next_obj.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "005637a1-45db-4cdb-bd3b-b878c42b52dd",
             "Value": {
                 "id": "eccde76d-dcd9-4e17-ae9a-a0759645a127",
@@ -210,6 +191,25 @@
             }
         },
         {
+            "Key": "2edba588-d1eb-4199-8a9d-c934fc167411",
+            "Value": {
+                "id": "39f70981-f935-4609-b219-3c1f4759b8d8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/startMenuu\/startMenuu.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "300c1d1a-ee89-4323-a3ed-57b6b1785efd",
             "Value": {
                 "id": "dc4ba4f5-44bf-4f38-877b-8bbb8ebd9ac1",
@@ -226,6 +226,25 @@
                 ],
                 "resourcePath": "views\/300c1d1a-ee89-4323-a3ed-57b6b1785efd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "476cda42-6318-4f89-bd3e-92bf23febac6",
+            "Value": {
+                "id": "0a27c08a-d113-495e-ba10-260a17dc2bd9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/pauseButton\/pauseButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -267,6 +286,25 @@
             }
         },
         {
+            "Key": "4f0d26e7-77ea-4834-9305-39e4e34f7e58",
+            "Value": {
+                "id": "60eadec0-db51-40fe-a3d9-5d4f121b03e2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/pauseMenu\/pauseMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "51bf7698-be1a-49d8-b7de-f4e7890983a2",
             "Value": {
                 "id": "257a6ca3-bb1b-4647-a6c2-932aa18243eb",
@@ -305,25 +343,6 @@
             }
         },
         {
-            "Key": "564a9a88-f5b6-4288-83bc-6828e4456546",
-            "Value": {
-                "id": "bc059a7b-cded-4de2-b222-68b9b1d4953b",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/storyTeller\/storyTeller.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "5e55dee3-ce85-4960-b03b-e32fc6be947e",
             "Value": {
                 "id": "41a80959-9dc6-4364-a0af-0fd2fb21a990",
@@ -359,25 +378,6 @@
                 ],
                 "resourcePath": "views\/7d2858df-e25b-4377-be4a-e34b93968516.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "7e907956-7229-48ef-ad04-db81996b6c83",
-            "Value": {
-                "id": "2fdaefc8-b948-4e1f-bdf2-39e49a261a48",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/back_obj\/back_obj.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -757,6 +757,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/playerSpriteUp\/playerSpriteUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f84f0589-fb22-4544-94cd-fa6eecc94dea",
+            "Value": {
+                "id": "ff0f78a7-fdbc-4644-b32d-6fc9b2fcd4b9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/pauseButtonSprite\/pauseButtonSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
