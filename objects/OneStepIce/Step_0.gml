@@ -14,6 +14,7 @@ if(place_meeting(x,y,Player) && change){
 else if(place_meeting(x,y,Evil) && change){
 // If colliding with the floor, and this is the first collision
 	if(strength==1){
+		global.steps++;
 		strength--
 		change=false
 		score+=100

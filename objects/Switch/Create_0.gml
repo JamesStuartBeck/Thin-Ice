@@ -7,3 +7,4 @@ on=false
 
 change=true
 // Variable for collisions
+depth=-1
