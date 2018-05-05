@@ -34,7 +34,7 @@ else if(place_meeting(x,y,Evil) && change){
 		instance_destroy(Evil)
 	}
 }
-else if(!(place_meeting(x,y,Player) || place_meeting(x,y,Player))){
+else if(!(place_meeting(x,y,Player) || place_meeting(x,y,Evil))){
 	change=true
 	if(sprite_index=crackedIceSprite){sprite_index=onetozero}
 }
