@@ -1,0 +1,1 @@
+room_goto(Stage0_1);

@@ -1,5 +1,5 @@
 // Handles player input
-
+if (!global.paused) {
 if (start) {
 	if (global.rotation == 0) {
 		directionn = "DOWN";
@@ -55,4 +55,5 @@ enter_exit(move, directionn, player_x, player_y);
 
 if(place_meeting(x,y,Exit)) {
 	room_goto_next()
+}
 }
