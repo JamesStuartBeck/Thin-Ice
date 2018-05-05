@@ -1,4 +1,4 @@
-roomName = "Level";
+roomName = "Stage";
 if (room == easy_levels)
 	roomName += "0_";
 else if (room == medium_levels)
