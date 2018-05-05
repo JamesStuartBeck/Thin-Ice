@@ -31,7 +31,8 @@ else if(place_meeting(x,y,Evil) && change){
 		score+=100
 		sprite_index=thinIceSprite
 	} else if(strength==0) {
-		instance_destroy(Evil)
+		evil = instance_place(x,y,Evil)
+		instance_destroy(evil)
 	}
 }
 else if(!(place_meeting(x,y,Player) || place_meeting(x,y,Evil))){

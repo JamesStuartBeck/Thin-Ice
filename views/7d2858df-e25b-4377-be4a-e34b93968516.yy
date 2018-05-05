@@ -12,6 +12,8 @@
         "11bcbd68-cb68-4d41-a622-7c7dfd706501",
         "27f0cd99-5d8c-490c-9cda-d2b246cbe761",
         "6096ded3-7f1a-4603-ab8a-b0cccefefde9",
+        "24fd1258-22d4-4993-a683-e309b1cec08b",
+        "2f5e3da9-30c0-48ff-8696-2b0da6568086",
         "a0bc9bfd-6205-412a-b4c6-673fff02bdd1",
         "7d79304f-05b5-4be6-981f-c969c050f87c",
         "cab5e255-2718-4655-b47b-d762ce2f6278",

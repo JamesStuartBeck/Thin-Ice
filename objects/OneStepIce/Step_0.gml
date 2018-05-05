@@ -22,7 +22,8 @@ else if(place_meeting(x,y,Evil) && change){
 // If sturdy, make it cracked, and don't check for another collison until you step on it again
 	}
 	else if(strength==0){
-		instance_destroy(Evil)
+		evil = instance_place(x,y,Evil)
+		instance_destroy(evil)
 // If cracked, game over
 	}
 }
