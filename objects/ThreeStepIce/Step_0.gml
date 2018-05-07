@@ -21,6 +21,10 @@ if(place_meeting(x,y,Player) && change){
 		sprite_index=thinIceSprite
 	} else if(strength==0) {
 		Player.sprite_index=playerDeath
+		
+		if(Player.image_index == 0.5 || Player.image_index == 0 || Player.image_index == 0.57)
+		audio_play_sound(snd_splash, 1, false);
+		
 		if(Player.image_index>Player.image_number-1){
 			Player.sprite_index=playerSpriteUp
 			room_goto(room)
