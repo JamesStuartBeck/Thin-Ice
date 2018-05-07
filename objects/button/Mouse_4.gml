@@ -1,8 +1,13 @@
-if (title == "Exit")
+if (title == "Exit"){
+	audio_play_sound(snd_select, 10, false);
 	game_end();
-else if (title == "Restart (R)")
+}
+else if (title == "Restart (R)"){
+	audio_play_sound(snd_select, 10, false);
 	room_goto(room);
+}
 else if (title == "Levels") {
+	audio_play_sound(snd_select, 10, false);
 	if (roomName == "0") {
 	str = room_get_name(room);
 	c = string_char_at(str,5)
@@ -19,6 +24,7 @@ else if (title == "Levels") {
 	}
 }
 else {
+	audio_play_sound(snd_select, 10, false);
 	show_debug_message(roomName)
 	roomId = asset_get_index(roomName);
 	room_goto(roomId);

@@ -1,4 +1,5 @@
 roomName = "Stage";
+audio_play_sound(snd_select, 10, false);
 if (room == easy_levels)
 	roomName += "0_";
 else if (room == medium_levels)

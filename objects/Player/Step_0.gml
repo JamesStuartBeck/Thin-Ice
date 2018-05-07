@@ -20,6 +20,7 @@ if(move[UP] && keyboard_check_pressed(vk_up)) {
 	   !place_meeting(x,y-64,DummyIce)) {
 			y-=64
 			image_angle=0
+			audio_play_sound(snd_move,10,false)
 	}
 } else if(move[DOWN] && keyboard_check_pressed(vk_down)) {
 	if(!place_meeting(x,y+64,IceWall) &&
@@ -28,6 +29,7 @@ if(move[UP] && keyboard_check_pressed(vk_up)) {
 	   !place_meeting(x,y+64,DummyIce)) {
 			y+=64
 			image_angle=180
+			audio_play_sound(snd_move,10,false)
 	}
 } else if(move[LEFT] && keyboard_check_pressed(vk_left)) {
 	if(!place_meeting(x-64,y,IceWall) &&
@@ -36,6 +38,7 @@ if(move[UP] && keyboard_check_pressed(vk_up)) {
 	   !place_meeting(x-64,y,DummyIce)) {
 			x-=64
 			image_angle=90
+			audio_play_sound(snd_move,10,false)
 	}
 } else if(move[RIGHT] && keyboard_check_pressed(vk_right)) {
 	if(!place_meeting(x+64,y,IceWall) &&
@@ -44,6 +47,7 @@ if(move[UP] && keyboard_check_pressed(vk_up)) {
 	   !place_meeting(x+64,y,DummyIce)) {
 			x+=64
 			image_angle=270
+			audio_play_sound(snd_move,10,false)
 	}
 }
 
