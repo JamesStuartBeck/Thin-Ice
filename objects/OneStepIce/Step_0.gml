@@ -8,7 +8,11 @@ if(place_meeting(x,y,Player) && change){
 		score+=100
 		sprite_index=thinIceSprite
 	} else if(strength==0) {
-		room_goto(room)
+		Player.sprite_index=playerDeath
+		if(Player.image_index>Player.image_number-1){
+			Player.sprite_index=playerSpriteUp
+			room_goto(room)
+		}
 	}
 }
 else if(place_meeting(x,y,Evil) && change){

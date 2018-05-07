@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "6deae0ad-3bac-4503-b0c4-58d88c06d475",
+            "Value": {
+                "id": "5c14cbd2-83e4-4b07-9569-d04d34aa70a9",
+                "resourcePath": "sprites\\Background\\Background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6f69e1f6-6366-4807-8bc5-c6d0d0a10d9e",
             "Value": {
                 "id": "d1222065-65ca-484c-a7c7-a6a4e5227b98",
@@ -772,6 +780,14 @@
                 "id": "b11e6376-86fe-4734-8a39-940555546e95",
                 "resourcePath": "rooms\\endScreen\\endScreen.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c15d39d8-5e8a-4809-9f13-d9e93780ab7d",
+            "Value": {
+                "id": "9fd14f46-d990-43c0-ab1a-81a4962d8c59",
+                "resourcePath": "sprites\\playerDeath\\playerDeath.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
