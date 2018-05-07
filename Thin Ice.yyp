@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "3cfb87ba-2e75-4ba4-9d39-fb084f2e2842",
+            "Value": {
+                "id": "f8146aef-4445-430c-b085-9166b4d30f1c",
+                "resourcePath": "sprites\\threeCrackedIceSprite\\threeCrackedIceSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e05c7f4-8964-4a6b-b94e-71416524afc3",
             "Value": {
                 "id": "c6d14e93-9d7e-4645-9995-007aed62c4de",
@@ -499,6 +507,14 @@
             "Value": {
                 "id": "e5728339-d9d3-4f6d-8ca7-433dbc21a7a3",
                 "resourcePath": "sprites\/stoneSprite\/stoneSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "752410d8-0ebd-4b0f-a054-1c375abe06a8",
+            "Value": {
+                "id": "484e2bbc-5bd1-47f3-b73a-436611ca7aae",
+                "resourcePath": "sprites\\threetotwo\\threetotwo.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -799,6 +815,14 @@
             }
         },
         {
+            "Key": "b849ab0a-add4-47f3-8041-32c3eac533ee",
+            "Value": {
+                "id": "810a2850-8d09-435f-be07-112c427ae513",
+                "resourcePath": "sprites\\twotoone\\twotoone.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b8ff2d83-7f03-46ce-b84b-326e060000f9",
             "Value": {
                 "id": "34a27457-9895-456a-a6fc-0f9bf26bb798",
@@ -1011,6 +1035,14 @@
             "Value": {
                 "id": "590fcc90-ca2d-41e6-b7ca-d90d398e0db4",
                 "resourcePath": "sprites\/iceWallOutsideCornerSprite\/iceWallOutsideCornerSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec688c5c-4cc6-4445-b3cb-45d6dd6f2cbc",
+            "Value": {
+                "id": "4102fcc2-703b-45db-a862-2169eaefb44e",
+                "resourcePath": "sprites\\twoCrackedIceSprite\\twoCrackedIceSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
