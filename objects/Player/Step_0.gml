@@ -13,6 +13,7 @@ if (start) {
 	start = false;
 }
 
+if (sprite_index != playerDeath) {
 if(move[UP] && keyboard_check_pressed(vk_up)) {
 	if(!place_meeting(x,y-64,IceWall) &&
 	   !place_meeting(x,y-64,SwitchWall) &&
@@ -55,6 +56,7 @@ if(move[UP] && keyboard_check_pressed(vk_up)) {
 	}
 }
 
+}
 // Moves the player
 player_x = x;
 player_y = y;
