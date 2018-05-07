@@ -1,5 +1,5 @@
 // Handles player input
-if (!global.paused) {
+
 if (start) {
 	if (global.rotation == 0) {
 		directionn = "DOWN";
@@ -17,6 +17,7 @@ if(move[UP] && keyboard_check_pressed(vk_up)) {
 	if(!place_meeting(x,y-64,IceWall) &&
 	   !place_meeting(x,y-64,SwitchWall) &&
 	   !place_meeting(x,y-64,IceWallCorner) &&
+	   !place_meeting(x,y-64,RockWall)&&
 	   !place_meeting(x,y-64,DummyIce)) {
 			y-=64
 			image_angle=0
@@ -25,6 +26,7 @@ if(move[UP] && keyboard_check_pressed(vk_up)) {
 	if(!place_meeting(x,y+64,IceWall) &&
 	   !place_meeting(x,y+64,SwitchWall) &&
 	   !place_meeting(x,y+64,IceWallCorner) &&
+	   !place_meeting(x,y+64,RockWall)&&
 	   !place_meeting(x,y+64,DummyIce)) {
 			y+=64
 			image_angle=180
@@ -33,6 +35,7 @@ if(move[UP] && keyboard_check_pressed(vk_up)) {
 	if(!place_meeting(x-64,y,IceWall) &&
 	   !place_meeting(x-64,y,SwitchWall) &&
 	   !place_meeting(x-64,y,IceWallCorner) &&
+	   !place_meeting(x-64,y,RockWall)&&
 	   !place_meeting(x-64,y,DummyIce)) {
 			x-=64
 			image_angle=90
@@ -41,6 +44,7 @@ if(move[UP] && keyboard_check_pressed(vk_up)) {
 	if(!place_meeting(x+64,y,IceWall) &&
 	   !place_meeting(x+64,y,SwitchWall) &&
 	   !place_meeting(x+64,y,IceWallCorner) &&
+	   !place_meeting(x+64,y,RockWall)&&
 	   !place_meeting(x+64,y,DummyIce)) {
 			x+=64
 			image_angle=270
@@ -55,5 +59,4 @@ enter_exit(move, directionn, player_x, player_y);
 
 if(place_meeting(x,y,Exit)) {
 	room_goto_next()
-}
 }

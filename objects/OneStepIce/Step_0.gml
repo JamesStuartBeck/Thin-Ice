@@ -18,6 +18,7 @@ if(place_meeting(x,y,Player) && change){
 else if(place_meeting(x,y,Evil) && change){
 // If colliding with the floor, and this is the first collision
 	if(strength==1){
+		global.steps++;
 		strength--
 		change=false
 		score+=100
@@ -25,7 +26,8 @@ else if(place_meeting(x,y,Evil) && change){
 // If sturdy, make it cracked, and don't check for another collison until you step on it again
 	}
 	else if(strength==0){
-		instance_destroy(Evil)
+		evil = instance_place(x,y,Evil)
+		instance_destroy(evil)
 // If cracked, game over
 	}
 }
@@ -40,3 +42,4 @@ if(sprite_index==thinIceSprite){
 } else if(sprite_index==onetozero){
 	if(image_index>image_number-1){sprite_index=zeroStepIceTile}
 }
+
