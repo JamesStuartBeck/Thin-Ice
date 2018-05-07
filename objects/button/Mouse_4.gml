@@ -1,3 +1,4 @@
+audio_play_sound(snd_select, 10, false);
 if (title == "Exit")
 	game_end();
 else if (title == "Restart (R)")
