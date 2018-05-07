@@ -1111,6 +1111,14 @@
             }
         },
         {
+            "Key": "f255afd9-cf85-4f62-97a7-707bb02f4d87",
+            "Value": {
+                "id": "ae6c9b9f-5139-43a9-9862-cbcabe5d9813",
+                "resourcePath": "datafiles_yy\\CFCrackandBold.ttf.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "f4094c03-9dc1-4b5b-a4c5-b004a235f111",
             "Value": {
                 "id": "1db80e31-408e-4139-9591-91eabaa9fd6f",
