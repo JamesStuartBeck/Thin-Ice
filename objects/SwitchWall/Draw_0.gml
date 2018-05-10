@@ -1,4 +1,6 @@
 // Draws the sprite
 
-draw_self()
+if(!global.paused){
+	draw_self()
+}
 // Draws the sprite
